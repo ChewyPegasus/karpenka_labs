@@ -1,0 +1,65 @@
+{
+ "Imatinib": {
+  "CID": 5291,
+  "MolecularFormula": "C29H31N7O",
+  "MolecularWeight": "493.6",
+  "SMILES": "CC1=C(C=C(C=C1)NC(=O)C2=CC=C(C=C2)CN3CCN(CC3)C)NC4=NC=CC(=N4)C5=CN=CC=C5",
+  "ConnectivitySMILES": "CC1=C(C=C(C=C1)NC(=O)C2=CC=C(C=C2)CN3CCN(CC3)C)NC4=NC=CC(=N4)C5=CN=CC=C5",
+  "InChIKey": "KTUFNOKKBVMGRW-UHFFFAOYSA-N",
+  "IUPACName": "4-[(4-methylpiperazin-1-yl)methyl]-N-[4-methyl-3-[(4-pyridin-3-ylpyrimidin-2-yl)amino]phenyl]benzamide"
+ },
+ "Nilotinib": {
+  "CID": 644241,
+  "MolecularFormula": "C28H22F3N7O",
+  "MolecularWeight": "529.5",
+  "SMILES": "CC1=C(C=C(C=C1)C(=O)NC2=CC(=CC(=C2)C(F)(F)F)N3C=C(N=C3)C)NC4=NC=CC(=N4)C5=CN=CC=C5",
+  "ConnectivitySMILES": "CC1=C(C=C(C=C1)C(=O)NC2=CC(=CC(=C2)C(F)(F)F)N3C=C(N=C3)C)NC4=NC=CC(=N4)C5=CN=CC=C5",
+  "InChIKey": "HHZIURLSWUIHRB-UHFFFAOYSA-N",
+  "IUPACName": "4-methyl-N-[3-(4-methylimidazol-1-yl)-5-(trifluoromethyl)phenyl]-3-[(4-pyridin-3-ylpyrimidin-2-yl)amino]benzamide"
+ },
+ "Dasatinib": {
+  "CID": 3062316,
+  "MolecularFormula": "C22H26ClN7O2S",
+  "MolecularWeight": "488.0",
+  "SMILES": "CC1=C(C(=CC=C1)Cl)NC(=O)C2=CN=C(S2)NC3=CC(=NC(=N3)C)N4CCN(CC4)CCO",
+  "ConnectivitySMILES": "CC1=C(C(=CC=C1)Cl)NC(=O)C2=CN=C(S2)NC3=CC(=NC(=N3)C)N4CCN(CC4)CCO",
+  "InChIKey": "ZBNZXTGUTAYRHI-UHFFFAOYSA-N",
+  "IUPACName": "N-(2-chloro-6-methylphenyl)-2-[[6-[4-(2-hydroxyethyl)piperazin-1-yl]-2-methylpyrimidin-4-yl]amino]-1,3-thiazole-5-carboxamide"
+ },
+ "Bosutinib": {
+  "CID": 5328940,
+  "MolecularFormula": "C26H29Cl2N5O3",
+  "MolecularWeight": "530.4",
+  "SMILES": "CN1CCN(CC1)CCCOC2=C(C=C3C(=C2)N=CC(=C3NC4=CC(=C(C=C4Cl)Cl)OC)C#N)OC",
+  "ConnectivitySMILES": "CN1CCN(CC1)CCCOC2=C(C=C3C(=C2)N=CC(=C3NC4=CC(=C(C=C4Cl)Cl)OC)C#N)OC",
+  "InChIKey": "UBPYILGKFZZVDX-UHFFFAOYSA-N",
+  "IUPACName": "4-(2,4-dichloro-5-methoxyanilino)-6-methoxy-7-[3-(4-methylpiperazin-1-yl)propoxy]quinoline-3-carbonitrile"
+ },
+ "Ponatinib": {
+  "CID": 24826799,
+  "MolecularFormula": "C29H27F3N6O",
+  "MolecularWeight": "532.6",
+  "SMILES": "CC1=C(C=C(C=C1)C(=O)NC2=CC(=C(C=C2)CN3CCN(CC3)C)C(F)(F)F)C#CC4=CN=C5N4N=CC=C5",
+  "ConnectivitySMILES": "CC1=C(C=C(C=C1)C(=O)NC2=CC(=C(C=C2)CN3CCN(CC3)C)C(F)(F)F)C#CC4=CN=C5N4N=CC=C5",
+  "InChIKey": "PHXJVRSECIGDHY-UHFFFAOYSA-N",
+  "IUPACName": "3-(2-imidazo[1,2-b]pyridazin-3-ylethynyl)-4-methyl-N-[4-[(4-methylpiperazin-1-yl)methyl]-3-(trifluoromethyl)phenyl]benzamide"
+ },
+ "Asciminib": {
+  "CID": 72165228,
+  "MolecularFormula": "C20H18ClF2N5O3",
+  "MolecularWeight": "449.8",
+  "SMILES": "C1CN(C[C@@H]1O)C2=C(C=C(C=N2)C(=O)NC3=CC=C(C=C3)OC(F)(F)Cl)C4=CC=NN4",
+  "ConnectivitySMILES": "C1CN(CC1O)C2=C(C=C(C=N2)C(=O)NC3=CC=C(C=C3)OC(F)(F)Cl)C4=CC=NN4",
+  "InChIKey": "VOVZXURTCKPRDQ-CQSZACIVSA-N",
+  "IUPACName": "N-[4-[chloro(difluoro)methoxy]phenyl]-6-[(3R)-3-hydroxypyrrolidin-1-yl]-5-(1H-pyrazol-5-yl)pyridine-3-carboxamide"
+ },
+ "Axitinib": {
+  "CID": 6450551,
+  "MolecularFormula": "C22H18N4OS",
+  "MolecularWeight": "386.5",
+  "SMILES": "CNC(=O)C1=CC=CC=C1SC2=CC3=C(C=C2)C(=NN3)/C=C/C4=CC=CC=N4",
+  "ConnectivitySMILES": "CNC(=O)C1=CC=CC=C1SC2=CC3=C(C=C2)C(=NN3)C=CC4=CC=CC=N4",
+  "InChIKey": "RITAVMQDGBJQJZ-FMIVXFBMSA-N",
+  "IUPACName": "N-methyl-2-[[3-[(E)-2-pyridin-2-ylethenyl]-1H-indazol-6-yl]sulfanyl]benzamide"
+ }
+}

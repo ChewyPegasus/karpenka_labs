@@ -1,0 +1,1824 @@
+[
+ {
+  "id": "1AB2",
+  "title": "THREE-DIMENSIONAL SOLUTION STRUCTURE OF THE SRC HOMOLOGY 2 DOMAIN OF C-ABL",
+  "method": "SOLUTION NMR",
+  "res": null,
+  "form": null,
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [],
+  "drug": []
+ },
+ {
+  "id": "1ABO",
+  "title": "CRYSTAL STRUCTURE OF THE COMPLEX OF THE ABL TYROSINE KINASE SH3 DOMAIN WITH 3BP-1 SYNTHETIC PEPTIDE",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.0,
+  "form": null,
+  "mut": "",
+  "org": [
+   "Mus musculus"
+  ],
+  "ligs": [
+   "SO4"
+  ],
+  "drug": []
+ },
+ {
+  "id": "1ABQ",
+  "title": "CRYSTAL STRUCTURE OF THE UNLIGANDED ABL TYROSINE KINASE SH3 DOMAIN",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.8,
+  "form": null,
+  "mut": "",
+  "org": [
+   "Mus musculus"
+  ],
+  "ligs": [],
+  "drug": []
+ },
+ {
+  "id": "1AWO",
+  "title": "THE SOLUTION NMR STRUCTURE OF ABL SH3 AND ITS RELATIONSHIP TO SH2 IN THE SH(32) CONSTRUCT, 20 STRUCTURES",
+  "method": "SOLUTION NMR",
+  "res": null,
+  "form": null,
+  "mut": "N64S, N120S",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [],
+  "drug": []
+ },
+ {
+  "id": "1BBZ",
+  "title": "CRYSTAL STRUCTURE OF THE ABL-SH3 DOMAIN COMPLEXED WITH A DESIGNED HIGH-AFFINITY PEPTIDE LIGAND: IMPLICATIONS FOR SH3-LIGAND INTERACTIONS",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.65,
+  "form": null,
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "SO4"
+  ],
+  "drug": []
+ },
+ {
+  "id": "1FPU",
+  "title": "CRYSTAL STRUCTURE OF ABL KINASE DOMAIN IN COMPLEX WITH A SMALL MOLECULE INHIBITOR",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.4,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Mus musculus"
+  ],
+  "ligs": [
+   "PRC"
+  ],
+  "drug": [
+   "PRC"
+  ]
+ },
+ {
+  "id": "1IEP",
+  "title": "CRYSTAL STRUCTURE OF THE C-ABL KINASE DOMAIN IN COMPLEX WITH STI-571.",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.1,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Mus musculus"
+  ],
+  "ligs": [
+   "CL",
+   "STI"
+  ],
+  "drug": [
+   "STI"
+  ]
+ },
+ {
+  "id": "1JU5",
+  "title": "Ternary complex of an Crk SH2 domain, Crk-derived phophopeptide, and Abl SH3 domain by NMR spectroscopy",
+  "method": "SOLUTION NMR",
+  "res": null,
+  "form": null,
+  "mut": "L122K",
+  "org": [
+   "Homo sapiens",
+   "Mus musculus"
+  ],
+  "ligs": [],
+  "drug": []
+ },
+ {
+  "id": "1M52",
+  "title": "Crystal Structure of the c-Abl Kinase domain in complex with PD173955",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.6,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Mus musculus"
+  ],
+  "ligs": [
+   "P17",
+   "MES"
+  ],
+  "drug": [
+   "P17"
+  ]
+ },
+ {
+  "id": "1OPJ",
+  "title": "Structural basis for the auto-inhibition of c-Abl tyrosine kinase",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.75,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Mus musculus"
+  ],
+  "ligs": [
+   "CL",
+   "MYR",
+   "STI"
+  ],
+  "drug": [
+   "MYR",
+   "STI"
+  ]
+ },
+ {
+  "id": "1OPK",
+  "title": "Structural basis for the auto-inhibition of c-Abl tyrosine kinase",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.8,
+  "form": "WT",
+  "mut": "D382N",
+  "org": [
+   "Mus musculus"
+  ],
+  "ligs": [
+   "MYR",
+   "P16",
+   "GOL"
+  ],
+  "drug": [
+   "MYR",
+   "P16"
+  ]
+ },
+ {
+  "id": "1OPL",
+  "title": "Structural basis for the auto-inhibition of c-Abl tyrosine kinase",
+  "method": "X-RAY DIFFRACTION",
+  "res": 3.42,
+  "form": "WT",
+  "mut": "D382N, K29R, E29D",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "MYR",
+   "P16"
+  ],
+  "drug": [
+   "MYR",
+   "P16"
+  ]
+ },
+ {
+  "id": "1ZZP",
+  "title": "Solution structure of the F-actin binding domain of Bcr-Abl/c-Abl",
+  "method": "SOLUTION NMR",
+  "res": null,
+  "form": null,
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [],
+  "drug": []
+ },
+ {
+  "id": "2ABL",
+  "title": "SH3-SH2 DOMAIN FRAGMENT OF HUMAN BCR-ABL TYROSINE KINASE",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.5,
+  "form": null,
+  "mut": "INS(M76)",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [],
+  "drug": []
+ },
+ {
+  "id": "2E2B",
+  "title": "Crystal structure of the c-Abl kinase domain in complex with INNO-406",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.2,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "406"
+  ],
+  "drug": [
+   "406"
+  ]
+ },
+ {
+  "id": "2F4J",
+  "title": "Structure of the Kinase Domain of an Imatinib-Resistant Abl Mutant in Complex with the Aurora Kinase Inhibitor VX-680",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.91,
+  "form": "WT",
+  "mut": "H396P",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "VX6"
+  ],
+  "drug": [
+   "VX6"
+  ]
+ },
+ {
+  "id": "2FO0",
+  "title": "Organization of the SH3-SH2 Unit in Active and Inactive Forms of the c-Abl Tyrosine Kinase",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.27,
+  "form": "WT",
+  "mut": "D382N",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "MYR",
+   "P16",
+   "GOL"
+  ],
+  "drug": [
+   "MYR",
+   "P16"
+  ]
+ },
+ {
+  "id": "2G1T",
+  "title": "A Src-like Inactive Conformation in the Abl Tyrosine Kinase Domain",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.8,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "MG",
+   "112"
+  ],
+  "drug": [
+   "112"
+  ]
+ },
+ {
+  "id": "2G2F",
+  "title": "A Src-like Inactive Conformation in the Abl Tyrosine Kinase Domain",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.7,
+  "form": "WT",
+  "mut": "H396P",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "AGS",
+   "112"
+  ],
+  "drug": [
+   "AGS",
+   "112"
+  ]
+ },
+ {
+  "id": "2G2H",
+  "title": "A Src-like Inactive Conformation in the Abl Tyrosine Kinase Domain",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.0,
+  "form": "WT",
+  "mut": "H396P",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "P16"
+  ],
+  "drug": [
+   "P16"
+  ]
+ },
+ {
+  "id": "2G2I",
+  "title": "A Src-like Inactive Conformation in the Abl Tyrosine Kinase Domain",
+  "method": "X-RAY DIFFRACTION",
+  "res": 3.12,
+  "form": "WT",
+  "mut": "H396P",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "ADP"
+  ],
+  "drug": [
+   "ADP"
+  ]
+ },
+ {
+  "id": "2GQG",
+  "title": "X-ray Crystal Structure of Dasatinib (BMS-354825) Bound to Activated ABL Kinase Domain",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.4,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "1N1",
+   "GOL"
+  ],
+  "drug": [
+   "1N1"
+  ]
+ },
+ {
+  "id": "2HZ0",
+  "title": "Abl kinase domain in complex with NVP-AEG082",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.1,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "GIN"
+  ],
+  "drug": [
+   "GIN"
+  ]
+ },
+ {
+  "id": "2HZ4",
+  "title": "Abl kinase domain unligated and in complex with tetrahydrostaurosporine",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.8,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "4ST"
+  ],
+  "drug": [
+   "4ST"
+  ]
+ },
+ {
+  "id": "2HZI",
+  "title": "Abl kinase domain in complex with PD180970",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.7,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "JIN"
+  ],
+  "drug": [
+   "JIN"
+  ]
+ },
+ {
+  "id": "2HZN",
+  "title": "Abl kinase domain in complex with NVP-AFG210",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.7,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Mus musculus"
+  ],
+  "ligs": [
+   "KIN"
+  ],
+  "drug": [
+   "KIN"
+  ]
+ },
+ {
+  "id": "2O88",
+  "title": "Crystal structure of the N114A mutant of ABL-SH3 domain complexed with a designed high-affinity peptide ligand: implications for SH3-ligand interactions",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.75,
+  "form": null,
+  "mut": "N114A",
+  "org": [
+   "Homo sapiens",
+   "synthetic construct"
+  ],
+  "ligs": [
+   "SO4"
+  ],
+  "drug": []
+ },
+ {
+  "id": "2QOH",
+  "title": "Crystal Structure of Abl kinase bound with PPY-A",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.95,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Mus musculus"
+  ],
+  "ligs": [
+   "P3Y"
+  ],
+  "drug": [
+   "P3Y"
+  ]
+ },
+ {
+  "id": "2V7A",
+  "title": "Crystal structure of the T315I Abl mutant in complex with the inhibitor PHA-739358",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.5,
+  "form": "T315I",
+  "mut": "YES",
+  "org": [
+   "HOMO SAPIENS"
+  ],
+  "ligs": [
+   "627",
+   "MG"
+  ],
+  "drug": [
+   "627"
+  ]
+ },
+ {
+  "id": "2Z60",
+  "title": "Crystal Structure of the T315I Mutant of Abl kinase bound with PPY-A",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.95,
+  "form": "T315I",
+  "mut": "T315I",
+  "org": [
+   "Mus musculus"
+  ],
+  "ligs": [
+   "P3Y"
+  ],
+  "drug": [
+   "P3Y"
+  ]
+ },
+ {
+  "id": "3CS9",
+  "title": "Human ABL kinase in complex with nilotinib",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.21,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "NIL"
+  ],
+  "drug": [
+   "NIL"
+  ]
+ },
+ {
+  "id": "3DK3",
+  "title": "Crystal structure of mutant ABL kinase domain in complex with small molecule fragment",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.02,
+  "form": "WT",
+  "mut": "Y393F, L445P",
+  "org": [
+   "Mus musculus"
+  ],
+  "ligs": [
+   "SX7",
+   "SO4"
+  ],
+  "drug": [
+   "SX7"
+  ]
+ },
+ {
+  "id": "3DK6",
+  "title": "Crystal structure of mutant ABL kinase domain in complex with small molecule fragment",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.02,
+  "form": "WT",
+  "mut": "Y253F, L445P",
+  "org": [
+   "Mus musculus"
+  ],
+  "ligs": [
+   "SX7"
+  ],
+  "drug": [
+   "SX7"
+  ]
+ },
+ {
+  "id": "3DK7",
+  "title": "Crystal structure of mutant ABL kinase domain in complex with small molecule fragment",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.01,
+  "form": "T315I",
+  "mut": "T315I, L445P",
+  "org": [
+   "Mus musculus"
+  ],
+  "ligs": [
+   "SX7",
+   "SO4"
+  ],
+  "drug": [
+   "SX7"
+  ]
+ },
+ {
+  "id": "3EG0",
+  "title": "Crystal structure of the N114T mutant of ABL-SH3 domain",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.3,
+  "form": null,
+  "mut": "N114T",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "GOL"
+  ],
+  "drug": []
+ },
+ {
+  "id": "3EG1",
+  "title": "Crystal structure of the N114Q mutant of ABL-SH3 domain complexed with a designed high-affinity peptide ligand: implications for SH3-ligand interactions",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.85,
+  "form": null,
+  "mut": "N114Q",
+  "org": [
+   "Homo sapiens",
+   "synthetic construct"
+  ],
+  "ligs": [
+   "SO4"
+  ],
+  "drug": []
+ },
+ {
+  "id": "3EG2",
+  "title": "Crystal structure of the N114Q mutant of ABL-SH3 domain",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.8,
+  "form": null,
+  "mut": "N114Q",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "GOL"
+  ],
+  "drug": []
+ },
+ {
+  "id": "3EG3",
+  "title": "Crystal structure of the N114A mutant of ABL-SH3 domain",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.4,
+  "form": null,
+  "mut": "N114A",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "GOL"
+  ],
+  "drug": []
+ },
+ {
+  "id": "2HYY",
+  "title": "Human Abl kinase domain in complex with imatinib (STI571, Glivec)",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.4,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "STI"
+  ],
+  "drug": [
+   "STI"
+  ]
+ },
+ {
+  "id": "2HIW",
+  "title": "Crystal Structure of Inactive Conformation Abl Kinase Catalytic Domain Complexed with Type II Inhibitor",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.2,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "7MP"
+  ],
+  "drug": [
+   "7MP"
+  ]
+ },
+ {
+  "id": "5NP2",
+  "title": "Abl1 SH3 pTyr89/134",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.6,
+  "form": null,
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [],
+  "drug": []
+ },
+ {
+  "id": "5MO4",
+  "title": "ABL1 kinase (T334I_D382N) in complex with asciminib and nilotinib",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.17,
+  "form": "T315I",
+  "mut": "T334I D382N",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "AY7",
+   "NIL"
+  ],
+  "drug": [
+   "AY7",
+   "NIL"
+  ]
+ },
+ {
+  "id": "5IH2",
+  "title": "Structure, thermodynamics, and the role of conformational dynamics in the interactions between the N-terminal SH3 domain of CrkII and proline-rich motifs in cAbl",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.8,
+  "form": null,
+  "mut": "",
+  "org": [
+   "Endothia gyrosa",
+   "Mus musculus"
+  ],
+  "ligs": [
+   "P4G",
+   "NA",
+   "PEG"
+  ],
+  "drug": []
+ },
+ {
+  "id": "5HU9",
+  "title": "Crystal structure of ABL1 in complex with CHMFL-074",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.529,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "CL",
+   "EDO",
+   "66K"
+  ],
+  "drug": [
+   "66K"
+  ]
+ },
+ {
+  "id": "5DC9",
+  "title": "CRYSTAL STRUCTURE OF MONOBODY AS25/ABL1 SH2 DOMAIN COMPLEX, CRYSTAL B",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.56,
+  "form": null,
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "IMD",
+   "GOL"
+  ],
+  "drug": []
+ },
+ {
+  "id": "5DC4",
+  "title": "CRYSTAL STRUCTURE OF MONOBODY AS25/ABL1 SH2 DOMAIN COMPLEX, CRYSTAL A",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.48,
+  "form": null,
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "GOL"
+  ],
+  "drug": []
+ },
+ {
+  "id": "5DC0",
+  "title": "CRYSTAL STRUCTURE OF MONOBODY GG3/ABL1 SH2 DOMAIN COMPLEX",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.23,
+  "form": null,
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [],
+  "drug": []
+ },
+ {
+  "id": "4ZOG",
+  "title": "VX-680/MK-0457 binds to human ABL1 also in inactive DFG conformations.",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.3,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "MES",
+   "MXE",
+   "VX6"
+  ],
+  "drug": [
+   "VX6"
+  ]
+ },
+ {
+  "id": "4YC8",
+  "title": "C-Helix-Out Binding of Dasatinib Analog to c-Abl Kinase",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.9,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "MES",
+   "EDO",
+   "4B7"
+  ],
+  "drug": [
+   "4B7"
+  ]
+ },
+ {
+  "id": "4XEY",
+  "title": "Crystal structure of an SH2-kinase domain construct of c-Abl tyrosine kinase",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.891,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "1N1"
+  ],
+  "drug": [
+   "1N1"
+  ]
+ },
+ {
+  "id": "4WA9",
+  "title": "The crystal structure of human abl1 wild type kinase domain in complex with axitinib",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.2,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "AXI"
+  ],
+  "drug": [
+   "AXI"
+  ]
+ },
+ {
+  "id": "4TWP",
+  "title": "The crystal structure of human abl1 T315I gatekeeper mutant kinase domain in complex with axitinib",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.4,
+  "form": "T315I",
+  "mut": "T315I",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "NA",
+   "NI",
+   "AXI"
+  ],
+  "drug": [
+   "AXI"
+  ]
+ },
+ {
+  "id": "4JJD",
+  "title": "Crystal structure of the N114A Abl-SH3 domain mutant at pH4",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.6,
+  "form": null,
+  "mut": "N114A",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "NA",
+   "PEG"
+  ],
+  "drug": []
+ },
+ {
+  "id": "4JJC",
+  "title": "Crystal structure of the Abl-SH3 domain at pH5",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.6,
+  "form": null,
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "PEG"
+  ],
+  "drug": []
+ },
+ {
+  "id": "4JJB",
+  "title": "Crystal structure of the Abl-SH3 domain at pH3",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.65,
+  "form": null,
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "SO4",
+   "PEG"
+  ],
+  "drug": []
+ },
+ {
+  "id": "4J9I",
+  "title": "Crystal structure of the ABL-SH3 domain complexed with the designed high-affinity peptide ligand P17",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.2,
+  "form": null,
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "GOL"
+  ],
+  "drug": []
+ },
+ {
+  "id": "4J9H",
+  "title": "Crystal structure of the ABL-SH3 domain complexed with the designed high-affinity peptide ligand P7 at pH 8",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.7,
+  "form": null,
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "SO4"
+  ],
+  "drug": []
+ },
+ {
+  "id": "4J9G",
+  "title": "Crystal structure of the ABL-SH3 domain complexed with the designed high-affinity peptide ligand P7 at pH7",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.8,
+  "form": null,
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "GOL",
+   "SO4"
+  ],
+  "drug": []
+ },
+ {
+  "id": "4J9F",
+  "title": "Crystal structure of the Abl-SH3 domain complexed with the high affinity peptide P0",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.094,
+  "form": null,
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "GOL",
+   "SO4"
+  ],
+  "drug": []
+ },
+ {
+  "id": "4J9E",
+  "title": "Crystal structure of the N114A mutant of the Abl-SH3 domain complexed with the high affinity peptide P17",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.4,
+  "form": null,
+  "mut": "N114A",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "SO4"
+  ],
+  "drug": []
+ },
+ {
+  "id": "4J9D",
+  "title": "Crystal structure of the N114A mutant of the Abl-SH3 domain complexed with the high affinity peptide P0",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.5,
+  "form": null,
+  "mut": "N114A",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "SO4"
+  ],
+  "drug": []
+ },
+ {
+  "id": "4J9C",
+  "title": "Crystal structure of the Abl-SH3 domain H59Q-N96T mutant complexed with the designed high-affinity peptide ligand P17",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.051,
+  "form": null,
+  "mut": "H59Q, N96T",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "PEG",
+   "PGE"
+  ],
+  "drug": []
+ },
+ {
+  "id": "4J9B",
+  "title": "Crystal structure of the Abl-SH3 domain H59Q-N96T mutant",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.702,
+  "form": null,
+  "mut": "H59Q, N96T",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "PEG"
+  ],
+  "drug": []
+ },
+ {
+  "id": "3UYO",
+  "title": "Crystal structure of monobody SH13/ABL1 SH2 domain complex",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.83,
+  "form": null,
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "SO4"
+  ],
+  "drug": []
+ },
+ {
+  "id": "3UE4",
+  "title": "Structural and spectroscopic analysis of the kinase inhibitor bosutinib binding to the Abl tyrosine kinase domain",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.424,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "DB8"
+  ],
+  "drug": [
+   "DB8"
+  ]
+ },
+ {
+  "id": "3T04",
+  "title": "Crystal structure of monobody 7c12/abl1 sh2 domain complex",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.1,
+  "form": null,
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "SO4",
+   "GOL"
+  ],
+  "drug": []
+ },
+ {
+  "id": "3QRK",
+  "title": "The crystal structure of human abl1 kinase domain in complex with DP-987",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.3,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "9DP"
+  ],
+  "drug": [
+   "9DP"
+  ]
+ },
+ {
+  "id": "3QRJ",
+  "title": "The crystal structure of human abl1 kinase domain T315I mutant in complex with DCC-2036",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.82,
+  "form": "T315I",
+  "mut": "T315I",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "919"
+  ],
+  "drug": [
+   "919"
+  ]
+ },
+ {
+  "id": "3QRI",
+  "title": "The crystal structure of human abl1 kinase domain in complex with DCC-2036",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.1,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "919",
+   "NA"
+  ],
+  "drug": [
+   "919"
+  ]
+ },
+ {
+  "id": "3PYY",
+  "title": "Discovery and Characterization of a Cell-Permeable, Small-molecule c-Abl Kinase Activator that Binds to the Myristoyl Binding Site",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.85,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "GOL",
+   "2PE",
+   "3YY",
+   "STI",
+   "SO4"
+  ],
+  "drug": [
+   "3YY",
+   "STI"
+  ]
+ },
+ {
+  "id": "3OY3",
+  "title": "Crystal structure of ABL T315I mutant kinase domain bound with a DFG-out inhibitor AP24589",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.95,
+  "form": "T315I",
+  "mut": "T315I",
+  "org": [
+   "Mus musculus"
+  ],
+  "ligs": [
+   "XY3"
+  ],
+  "drug": [
+   "XY3"
+  ]
+ },
+ {
+  "id": "3OXZ",
+  "title": "Crystal structure of ABL kinase domain bound with a DFG-out inhibitor AP24534",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.2,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Mus musculus"
+  ],
+  "ligs": [
+   "0LI"
+  ],
+  "drug": [
+   "0LI"
+  ]
+ },
+ {
+  "id": "3MSS",
+  "title": "Abl kinase in complex with imatinib and fragment (FRAG2) in the myristate site",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.95,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Mus musculus"
+  ],
+  "ligs": [
+   "MS7",
+   "STI"
+  ],
+  "drug": [
+   "MS7",
+   "STI"
+  ]
+ },
+ {
+  "id": "3MS9",
+  "title": "ABL kinase in complex with imatinib and a fragment (FRAG1) in the myristate pocket",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.8,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Mus musculus"
+  ],
+  "ligs": [
+   "CL",
+   "MS9",
+   "STI"
+  ],
+  "drug": [
+   "STI"
+  ]
+ },
+ {
+  "id": "3KFA",
+  "title": "Structural analysis of DFG-in and DFG-out dual Src-Abl inhibitors sharing a common vinyl purine template",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.22,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Mus musculus"
+  ],
+  "ligs": [
+   "B91"
+  ],
+  "drug": [
+   "B91"
+  ]
+ },
+ {
+  "id": "3KF4",
+  "title": "Structural analysis of DFG-in and DFG-out dual Src-Abl inhibitors sharing a common vinyl purine template",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.9,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Mus musculus"
+  ],
+  "ligs": [
+   "B90"
+  ],
+  "drug": [
+   "B90"
+  ]
+ },
+ {
+  "id": "3K5V",
+  "title": "Structure of Abl kinase in complex with imatinib and GNF-2",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.74,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Mus musculus"
+  ],
+  "ligs": [
+   "CL",
+   "STI",
+   "STJ"
+  ],
+  "drug": [
+   "STI",
+   "STJ"
+  ]
+ },
+ {
+  "id": "3K2M",
+  "title": "Crystal Structure of Monobody HA4/Abl1 SH2 Domain Complex",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.75,
+  "form": null,
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "PO4"
+  ],
+  "drug": []
+ },
+ {
+  "id": "3IK3",
+  "title": "AP24534, a Pan-BCR-ABL Inhibitor for Chronic Myeloid Leukemia, Potently Inhibits the T315I Mutant and Overcomes Mutation-Based Resistance",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.9,
+  "form": "T315I",
+  "mut": "T315I",
+  "org": [
+   "Mus musculus"
+  ],
+  "ligs": [
+   "0LI"
+  ],
+  "drug": [
+   "0LI"
+  ]
+ },
+ {
+  "id": "3EGU",
+  "title": "Crystal structure of the N114A mutant of ABL-SH3 domain",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.25,
+  "form": null,
+  "mut": "N114A",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "GOL",
+   "SO4"
+  ],
+  "drug": []
+ },
+ {
+  "id": "9KS5",
+  "title": "The crystal structure of ABL1 in complex with K-CNBA-1",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.2,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [],
+  "drug": []
+ },
+ {
+  "id": "8SSN",
+  "title": "Abl kinase in complex with SKI and asciminib",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.86,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "DMS",
+   "SO4",
+   "CL",
+   "SKI",
+   "AY7"
+  ],
+  "drug": [
+   "SKI",
+   "AY7"
+  ]
+ },
+ {
+  "id": "8I7Z",
+  "title": "The crystal structure of human abl1 kinase domain in complex with ABL1-B5",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.25495806781,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "BAL",
+   "6CI"
+  ],
+  "drug": [
+   "6CI"
+  ]
+ },
+ {
+  "id": "8I7T",
+  "title": "The crystal structure of human abl1 kinase domain in complex with ABL1-B4",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.80004960558,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "6I5"
+  ],
+  "drug": [
+   "6I5"
+  ]
+ },
+ {
+  "id": "8I7S",
+  "title": "The crystal structure of human abl1 kinase domain in complex with ABL1-B1",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.94635467805,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "6CI"
+  ],
+  "drug": [
+   "6CI"
+  ]
+ },
+ {
+  "id": "8H7H",
+  "title": "The crystal structure of human abl1 kinase domain in complex with abl1-A-EBA",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.27789711576,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "QH9"
+  ],
+  "drug": [
+   "QH9"
+  ]
+ },
+ {
+  "id": "8H7F",
+  "title": "The crystal structure of human abl1 kinase domain in complex with abl1-B-EBA",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.4501342407,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "QEW"
+  ],
+  "drug": [
+   "QEW"
+  ]
+ },
+ {
+  "id": "7W7Y",
+  "title": "The crystal structure of human abl1 kinase domain in complex with ABL2-A5",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.20003021871,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "8IW"
+  ],
+  "drug": [
+   "8IW"
+  ]
+ },
+ {
+  "id": "7W7X",
+  "title": "The crystal structure of human abl1 kinase domain in complex with ABL1-A11",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.00000937681,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "8DW"
+  ],
+  "drug": [
+   "8DW"
+  ]
+ },
+ {
+  "id": "7PW2",
+  "title": "Crystal structure of the Abl SH3 domain V73E-A74S-S75R-G76T-D77E mutant",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.1,
+  "form": null,
+  "mut": "V73E, A74S, S75R, G76T, D77E",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [],
+  "drug": []
+ },
+ {
+  "id": "7PVV",
+  "title": "Crystal structure of the Abl SH3 domain G92N-Y93N-N94T-H95E mutant",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.82,
+  "form": null,
+  "mut": "G92N, Y93N, N94T, H95E",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "PGE",
+   "PEG"
+  ],
+  "drug": []
+ },
+ {
+  "id": "7PVS",
+  "title": "Crystal structure of the Abl SH3 domain V73E-A74S-S75R-G76T-D77E-G92N-Y93N-N94T-H95E mutant in presence of PEG 200",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.05,
+  "form": null,
+  "mut": "V73E, A74S, S75R, G76T, D77E, G92N, Y93N, N94T, H95E",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "P6G",
+   "PEG",
+   "SO4",
+   "NA",
+   "PGE"
+  ],
+  "drug": []
+ },
+ {
+  "id": "7PVR",
+  "title": "Crystal structure of the Abl SH3 domain V73E-A74S-S75R-G76T-D77E-G92N-Y93N-N94T-H95E mutant in the space group P41",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.65,
+  "form": null,
+  "mut": "V73E, A74S, S75R, G76T, D77E, G92N, Y93N, N94T, H95E",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [],
+  "drug": []
+ },
+ {
+  "id": "7PVQ",
+  "title": "Crystal structure of the Abl SH3 domain V73E-A74S-S75R-G76T-D77E-G92N-Y93N-N94T-H95E mutant in the space group P21221",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.55,
+  "form": null,
+  "mut": "V73E, A74S, S75R, G76T, D77E, G92N, Y93N, N94T, H95E",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [],
+  "drug": []
+ },
+ {
+  "id": "7N9G",
+  "title": "Crystal structure of the Abl 1b Kinase domain in complex with Dasatinib and Imatinib",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.2,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "PO4",
+   "1N1",
+   "STI"
+  ],
+  "drug": [
+   "1N1",
+   "STI"
+  ]
+ },
+ {
+  "id": "7DT2",
+  "title": "Strategic design of catalytic lysine-targeting reversible covalent BCR-ABL Inhibitors",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.3,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "HJ9"
+  ],
+  "drug": [
+   "HJ9"
+  ]
+ },
+ {
+  "id": "7CC2",
+  "title": "Strategic design of catalytic lysine-targeting reversible covalent BCR-ABL Inhibitors",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.723,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "FVC"
+  ],
+  "drug": [
+   "FVC"
+  ]
+ },
+ {
+  "id": "6XRG",
+  "title": "Abl 1b isoform inactive2 state",
+  "method": "SOLUTION NMR",
+  "res": null,
+  "form": "WT",
+  "mut": "G269E, M309L, T408Y",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [],
+  "drug": []
+ },
+ {
+  "id": "6XR7",
+  "title": "Abl isoform 1b inactive1 state",
+  "method": "SOLUTION NMR",
+  "res": null,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [],
+  "drug": []
+ },
+ {
+  "id": "6XR6",
+  "title": "Abl 1b isoform active state",
+  "method": "SOLUTION NMR",
+  "res": null,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [],
+  "drug": []
+ },
+ {
+  "id": "6NPV",
+  "title": "C-abl Kinase domain with the activator(cmpd51), N-(1-(3,4-dichlorophenyl)-4-(2-hydroxyethyl)-4,5-dihydro-1H-pyrazol-3-yl)isonicotinamide",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.86,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "2PE",
+   "GOL",
+   "KWP",
+   "STI",
+   "SO4"
+  ],
+  "drug": [
+   "KWP",
+   "STI"
+  ]
+ },
+ {
+  "id": "6NPU",
+  "title": "C-abl Kinase domain with the activator(cmpd29), N-(1-(3,4-dichlorophenyl)-4,5-dihydro-1H-pyrazol-3-yl)acetamide",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.33,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "2PE",
+   "GOL",
+   "SO4",
+   "KWV",
+   "STI"
+  ],
+  "drug": [
+   "KWV",
+   "STI"
+  ]
+ },
+ {
+  "id": "6NPE",
+  "title": "C-abl Kinase domain with the activator(cmpd6), 2-cyano-N-(4-(3,4-dichlorophenyl)thiazol-2-yl)acetamide",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.15,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "2PE",
+   "KWD",
+   "STI",
+   "SO4"
+  ],
+  "drug": [
+   "KWD",
+   "STI"
+  ]
+ },
+ {
+  "id": "6HD6",
+  "title": "ABL1 IN COMPLEX WITH COMPOUND6 AND IMATINIB (STI-571)",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.3,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Mus musculus"
+  ],
+  "ligs": [
+   "STI",
+   "FYH",
+   "CL"
+  ],
+  "drug": [
+   "STI",
+   "FYH"
+  ]
+ },
+ {
+  "id": "6HD4",
+  "title": "ABL1 IN COMPLEX WITH COMPOUND 7 AND IMATINIB (STI-571)",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.03,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Mus musculus"
+  ],
+  "ligs": [
+   "STI",
+   "FYW",
+   "CL",
+   "GOL"
+  ],
+  "drug": [
+   "STI",
+   "FYW"
+  ]
+ },
+ {
+  "id": "6BL8",
+  "title": "Predicting the Conformational Variability of Abl Tyrosine Kinase Using Molecular Dynamics Simulations and Markov State Models",
+  "method": "X-RAY DIFFRACTION",
+  "res": 2.5,
+  "form": "WT",
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "SO4",
+   "PVB"
+  ],
+  "drug": [
+   "PVB"
+  ]
+ },
+ {
+  "id": "6AMW",
+  "title": "Abl1b Regulatory Module 'Activating' conformation",
+  "method": "SOLUTION NMR",
+  "res": null,
+  "form": null,
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [],
+  "drug": []
+ },
+ {
+  "id": "6AMV",
+  "title": "Abl 1b Regulatory Module 'inhibiting state'",
+  "method": "SOLUTION NMR",
+  "res": null,
+  "form": null,
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [],
+  "drug": []
+ },
+ {
+  "id": "5OAZ",
+  "title": "Crystal structure of the Abl-SH3 domain at pH 7.5",
+  "method": "X-RAY DIFFRACTION",
+  "res": 1.03,
+  "form": null,
+  "mut": "",
+  "org": [
+   "Homo sapiens"
+  ],
+  "ligs": [
+   "PEG"
+  ],
+  "drug": []
+ }
+]

@@ -1,0 +1,6926 @@
+[
+ {
+  "rcsb_id": "1AB2",
+  "exptl": [
+   {
+    "method": "SOLUTION NMR"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": null
+  },
+  "struct": {
+   "title": "THREE-DIMENSIONAL SOLUTION STRUCTURE OF THE SRC HOMOLOGY 2 DOMAIN OF C-ABL"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "C-ABL TYROSINE KINASE SH2 DOMAIN",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A",
+     "pdbx_seq_one_letter_code_can": "GSGNSLEKHSWYHGPVSRNAAEYLLSSGINGSFLVRESESSPGQRSISLRYEGRVYHYRINTASDGKLYVSSESRFNTLAELVHHHSTVADGLITTLHYPAPKRGIHRD"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 120,
+        "length": 101
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": null
+ },
+ {
+  "rcsb_id": "1ABO",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.0
+   ]
+  },
+  "struct": {
+   "title": "CRYSTAL STRUCTURE OF THE COMPLEX OF THE ABL TYROSINE KINASE SH3 DOMAIN WITH 3BP-1 SYNTHETIC PEPTIDE"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "3BP-1 SYNTHETIC PEPTIDE, 10 RESIDUES",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "C,D",
+     "pdbx_seq_one_letter_code_can": "APTMPPPLPP"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": null
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P55194",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 607,
+        "length": 10
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "ABL TYROSINE KINASE",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "MNDPNLFVALYDFVASGDNTLSITKGEKLRVLGYNHNGEWCEAQTKNGQGWVPSNYITPVNS"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Mus musculus"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00520",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 61,
+        "length": 61
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "SO4",
+      "name": "SULFATE ION",
+      "formula_weight": 96.063
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "1ABQ",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.8
+   ]
+  },
+  "struct": {
+   "title": "CRYSTAL STRUCTURE OF THE UNLIGANDED ABL TYROSINE KINASE SH3 DOMAIN"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "ABL TYROSINE KINASE SRC-HOMOLOGY 3 (SH3) DOMAIN",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A",
+     "pdbx_seq_one_letter_code_can": "MNDPNLFVALYDFVASGDNTLSITKGEKLRVLGYNHNGEWCEAQTKNGQGWVPSNYITPVNS"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Mus musculus"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00520",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 61,
+        "length": 61
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": null
+ },
+ {
+  "rcsb_id": "1AWO",
+  "exptl": [
+   {
+    "method": "SOLUTION NMR"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": null
+  },
+  "struct": {
+   "title": "THE SOLUTION NMR STRUCTURE OF ABL SH3 AND ITS RELATIONSHIP TO SH2 IN THE SH(32) CONSTRUCT, 20 STRUCTURES"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "ABL TYROSINE KINASE",
+     "pdbx_mutation": "N64S, N120S"
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A",
+     "pdbx_seq_one_letter_code_can": "GSPGGSLFVALYDFVASGDNTLSITKGEKLRVLGYNHNGEWCEAQTKNGQGWVPSNYITPVS"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 59,
+        "length": 62
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": null
+ },
+ {
+  "rcsb_id": "1BBZ",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.65
+   ]
+  },
+  "struct": {
+   "title": "CRYSTAL STRUCTURE OF THE ABL-SH3 DOMAIN COMPLEXED WITH A DESIGNED HIGH-AFFINITY PEPTIDE LIGAND: IMPLICATIONS FOR SH3-LIGAND INTERACTIONS"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "PEPTIDE P41",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "B,D,F,H",
+     "pdbx_seq_one_letter_code_can": "XAPSYSPPPPP"
+    },
+    "rcsb_entity_source_organism": null,
+    "rcsb_polymer_entity_align": null
+   },
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "ABL TYROSINE KINASE",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,C,E,G",
+     "pdbx_seq_one_letter_code_can": "NLFVALYDFVASGDNTLSITKGEKLRVLGYNHNGEWCEAQTKNGQGWVPSNYITPVNS"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 64,
+        "length": 58
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "SO4",
+      "name": "SULFATE ION",
+      "formula_weight": 96.063
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "1FPU",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.4
+   ]
+  },
+  "struct": {
+   "title": "CRYSTAL STRUCTURE OF ABL KINASE DOMAIN IN COMPLEX WITH A SMALL MOLECULE INHIBITOR"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "PROTO-ONCOGENE TYROSINE-PROTEIN KINASE ABL",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "GAMDPSSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVSAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGKRGT"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Mus musculus"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00520",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 287
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "PRC",
+      "name": "N-[4-METHYL-3-[[4-(3-PYRIDINYL)-2-PYRIMIDINYL]AMINO]PHENYL]-3-PYRIDINECARBOXAMIDE",
+      "formula_weight": 382.418
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "1IEP",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.1
+   ]
+  },
+  "struct": {
+   "title": "CRYSTAL STRUCTURE OF THE C-ABL KINASE DOMAIN IN COMPLEX WITH STI-571."
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "PROTO-ONCOGENE TYROSINE-PROTEIN KINASE ABL",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "GAMDPSSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVSAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGKRGT"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Mus musculus"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00520",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 287
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "CL",
+      "name": "CHLORIDE ION",
+      "formula_weight": 35.453
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "STI",
+      "name": "4-(4-METHYL-PIPERAZIN-1-YLMETHYL)-N-[4-METHYL-3-(4-PYRIDIN-3-YL-PYRIMIDIN-2-YLAMINO)-PHENYL]-BENZAMIDE",
+      "formula_weight": 493.603
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "1JU5",
+  "exptl": [
+   {
+    "method": "SOLUTION NMR"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": null
+  },
+  "struct": {
+   "title": "Ternary complex of an Crk SH2 domain, Crk-derived phophopeptide, and Abl SH3 domain by NMR spectroscopy"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Abl",
+     "pdbx_mutation": "L122K"
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "C",
+     "pdbx_seq_one_letter_code_can": "DPNLFVALYDFVASGDNTLSITKGEKLRVLGYNHNGEWCEAQTKNGQGWVPSNYITPVNSK"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 62,
+        "length": 61
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Crk",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "B",
+     "pdbx_seq_one_letter_code_can": "EPGPYAQPSVNTK"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Mus musculus"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "Q64010",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 217,
+        "length": 12
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Crk",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A",
+     "pdbx_seq_one_letter_code_can": "SWYWGRLSRQEAVALLQGQRHGVFLVRDSSTSPGDYVLSVSENSRVSHYIINSSGPRPPVPPSPAQPPPGVSPSRLRIGDQEFDSLPALLEFYKIHYLDTTTLIEPVSR"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P46108",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 12,
+        "length": 109
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": null
+ },
+ {
+  "rcsb_id": "1M52",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.6
+   ]
+  },
+  "struct": {
+   "title": "Crystal Structure of the c-Abl Kinase domain in complex with PD173955"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "PROTO-ONCOGENE TYROSINE-PROTEIN KINASE ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "GAMDPSSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVSAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGKRGT"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Mus musculus"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00520",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 287
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "P17",
+      "name": "6-(2,6-DICHLORO-PHENYL)-8-METHYL-2-(3-METHYLSULFANYL-PHENYLAMINO)-8H-PYRIDO[2,3-D]PYRIMIDIN-7-ONE",
+      "formula_weight": 443.349
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "MES",
+      "name": "2-(N-MORPHOLINO)-ETHANESULFONIC ACID",
+      "formula_weight": 195.237
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "1OPJ",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.75
+   ]
+  },
+  "struct": {
+   "title": "Structural basis for the auto-inhibition of c-Abl tyrosine kinase"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Proto-oncogene tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "GAMDPSSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVSAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGKRGT"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Mus musculus"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00520",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 287
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "CL",
+      "name": "CHLORIDE ION",
+      "formula_weight": 35.453
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "MYR",
+      "name": "MYRISTIC ACID",
+      "formula_weight": 228.371
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "STI",
+      "name": "4-(4-METHYL-PIPERAZIN-1-YLMETHYL)-N-[4-METHYL-3-(4-PYRIDIN-3-YL-PYRIMIDIN-2-YLAMINO)-PHENYL]-BENZAMIDE",
+      "formula_weight": 493.603
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "1OPK",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.8
+   ]
+  },
+  "struct": {
+   "title": "Structural basis for the auto-inhibition of c-Abl tyrosine kinase"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Proto-oncogene tyrosine-protein kinase ABL1",
+     "pdbx_mutation": "D382N"
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A",
+     "pdbx_seq_one_letter_code_can": "GAMDPSEALQRPVASDFEPQGLSEAARWNSKENLLAGPSENDPNLFVALYDFVASGDNTLSITKGEKLRVLGYNHNGEWCEAQTKNGQGWVPSNYITPVNSLEKHSWYHGPVSRNAAEYLLSSGINGSFLVRESESSPGQRSISLRYEGRVYHYRINTASDGKLYVSSESRFNTLAELVHHHSTVADGLITTLHYPAPKRNKPTIYGVSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVSAVVLLYMATQISSAMEYLEKKNFIHRNLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGKRGT"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Mus musculus"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00520",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 27,
+        "length": 489
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "MYR",
+      "name": "MYRISTIC ACID",
+      "formula_weight": 228.371
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "P16",
+      "name": "6-(2,6-DICHLOROPHENYL)-2-{[3-(HYDROXYMETHYL)PHENYL]AMINO}-8-METHYLPYRIDO[2,3-D]PYRIMIDIN-7(8H)-ONE",
+      "formula_weight": 427.283
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "GOL",
+      "name": "GLYCEROL",
+      "formula_weight": 92.094
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "1OPL",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    3.42
+   ]
+  },
+  "struct": {
+   "title": "Structural basis for the auto-inhibition of c-Abl tyrosine kinase"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "proto-oncogene tyrosine-protein kinase",
+     "pdbx_mutation": "D382N, K29R, E29D"
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "MGQQPGKVLGDQRRPSLPALHFIKGAGKRDSSRHGGPHCNVFVEHEALQRPVASDFEPQGLSEAARWNSKENLLAGPSENDPNLFVALYDFVASGDNTLSITKGEKLRVLGYNHNGEWCEAQTKNGQGWVPSNYITPVNSLEKHSWYHGPVSRNAAEYLLSSGINGSFLVRESESSPGQRSISLRYEGRVYHYRINTASDGKLYVSSESRFNTLAELVHHHSTVADGLITTLHYPAPKRNKPTVYGVSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRNLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGKENLYFQ"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 6,
+        "length": 7
+       },
+       {
+        "ref_beg_seq_id": 13,
+        "length": 500
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "MYR",
+      "name": "MYRISTIC ACID",
+      "formula_weight": 228.371
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "P16",
+      "name": "6-(2,6-DICHLOROPHENYL)-2-{[3-(HYDROXYMETHYL)PHENYL]AMINO}-8-METHYLPYRIDO[2,3-D]PYRIMIDIN-7(8H)-ONE",
+      "formula_weight": 427.283
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "1ZZP",
+  "exptl": [
+   {
+    "method": "SOLUTION NMR"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": null
+  },
+  "struct": {
+   "title": "Solution structure of the F-actin binding domain of Bcr-Abl/c-Abl"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Proto-oncogene tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A",
+     "pdbx_seq_one_letter_code_can": "GAMASTRVSLRKTRQPPERIASGAITKGVVLDSTEALCLAISRNSEQMASHSAVLEAGKNLYSFCVSYVDSIQQMRNKFAFREAINKLENNLRELQICPATAGSGPAATQDFSKLLSSVKEISDIVQRLE"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 1007,
+        "length": 124
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": null
+ },
+ {
+  "rcsb_id": "2ABL",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.5
+   ]
+  },
+  "struct": {
+   "title": "SH3-SH2 DOMAIN FRAGMENT OF HUMAN BCR-ABL TYROSINE KINASE"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "ABL TYROSINE KINASE",
+     "pdbx_mutation": "INS(M76)"
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A",
+     "pdbx_seq_one_letter_code_can": "MGPSENDPNLFVALYDFVASGDNTLSITKGEKLRVLGYNHNGEWCEAQTKNGQGWVPSNYITPVNSLEKHSWYHGPVSRNAAEYLLSSGINGSFLVRESESSPGQRSISLRYEGRVYHYRINTASDGKLYVSSESRFNTLAELVHHHSTVADGLITTLHYPAP"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 57,
+        "length": 162
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": null
+ },
+ {
+  "rcsb_id": "2E2B",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.2
+   ]
+  },
+  "struct": {
+   "title": "Crystal structure of the c-Abl kinase domain in complex with INNO-406"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Proto-oncogene tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "GAMDPSSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGKQGV"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 287
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "406",
+      "name": "N-[3-(4,5'-BIPYRIMIDIN-2-YLAMINO)-4-METHYLPHENYL]-4-{[(3S)-3-(DIMETHYLAMINO)PYRROLIDIN-1-YL]METHYL}-3-(TRIFLUOROMETHYL)\nBENZAMIDE",
+      "formula_weight": 576.615
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "2F4J",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.91
+   ]
+  },
+  "struct": {
+   "title": "Structure of the Kinase Domain of an Imatinib-Resistant Abl Mutant in Complex with the Aurora Kinase Inhibitor VX-680"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Proto-oncogene tyrosine-protein kinase ABL1",
+     "pdbx_mutation": "H396P"
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A",
+     "pdbx_seq_one_letter_code_can": "GMSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAPAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGKQ"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 227,
+        "length": 287
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "VX6",
+      "name": "CYCLOPROPANECARBOXYLIC ACID {4-[4-(4-METHYL-PIPERAZIN-1-YL)-6-(5-METHYL-2H-PYRAZOL-3-YLAMINO)-PYRIMIDIN-2-YLSULFANYL]-PHENYL}-AMIDE",
+      "formula_weight": 464.586
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "2FO0",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.27
+   ]
+  },
+  "struct": {
+   "title": "Organization of the SH3-SH2 Unit in Active and Inactive Forms of the c-Abl Tyrosine Kinase"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Proto-oncogene tyrosine-protein kinase ABL1 (1B ISOFORM)",
+     "pdbx_mutation": "D382N"
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A",
+     "pdbx_seq_one_letter_code_can": "MGQQPGKVLGDQRREPQGLSEAARWNSKENLLAGPSENDPNLFVALYDFVASGDNTLSITKGEKLRVLGYNHNGEWCEAQTKNGQGWVPSNYITPVNSLEKHSWYHGPVSRNAAEYLLSSGINGSFLVRESESSPGQRSISLRYEGRVYHYRINTASDGKLYVSSESRFNTLAELVHHHSTVADGLITTLHYPAPKRNKPTVYGVSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRNLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGKENLYGQ"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     },
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 38,
+        "length": 475
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "MYR",
+      "name": "MYRISTIC ACID",
+      "formula_weight": 228.371
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "P16",
+      "name": "6-(2,6-DICHLOROPHENYL)-2-{[3-(HYDROXYMETHYL)PHENYL]AMINO}-8-METHYLPYRIDO[2,3-D]PYRIMIDIN-7(8H)-ONE",
+      "formula_weight": 427.283
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "GOL",
+      "name": "GLYCEROL",
+      "formula_weight": 92.094
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "2G1T",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.8
+   ]
+  },
+  "struct": {
+   "title": "A Src-like Inactive Conformation in the Abl Tyrosine Kinase Domain"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "ATP-Peptide Conjugate",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "E,F,G,H",
+     "pdbx_seq_one_letter_code_can": "AEEEIFGEFEAKK"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": null
+     }
+    ],
+    "rcsb_polymer_entity_align": null
+   },
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Proto-oncogene tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B,C,D",
+     "pdbx_seq_one_letter_code_can": "GHMSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGK"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 284
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "MG",
+      "name": "MAGNESIUM ION",
+      "formula_weight": 24.305
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "112",
+      "name": "THIOPHOSPHORIC ACID O-((ADENOSYL-PHOSPHO)PHOSPHO)-S-ACETAMIDYL-DIESTER",
+      "formula_weight": 580.298
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "2G2F",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.7
+   ]
+  },
+  "struct": {
+   "title": "A Src-like Inactive Conformation in the Abl Tyrosine Kinase Domain"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "ATP-Peptide Conjugate",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "C",
+     "pdbx_seq_one_letter_code_can": "EAIFAAPFAKK"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": null
+     }
+    ],
+    "rcsb_polymer_entity_align": null
+   },
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Abl Kinase",
+     "pdbx_mutation": "H396P"
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "GHMSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAPAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGK"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 284
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "AGS",
+      "name": "PHOSPHOTHIOPHOSPHORIC ACID-ADENYLATE ESTER",
+      "formula_weight": 523.247
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "112",
+      "name": "THIOPHOSPHORIC ACID O-((ADENOSYL-PHOSPHO)PHOSPHO)-S-ACETAMIDYL-DIESTER",
+      "formula_weight": 580.298
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "2G2H",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.0
+   ]
+  },
+  "struct": {
+   "title": "A Src-like Inactive Conformation in the Abl Tyrosine Kinase Domain"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Abl Tyrosine",
+     "pdbx_mutation": "H396P"
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "GHMSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAPAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGK"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 284
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "P16",
+      "name": "6-(2,6-DICHLOROPHENYL)-2-{[3-(HYDROXYMETHYL)PHENYL]AMINO}-8-METHYLPYRIDO[2,3-D]PYRIMIDIN-7(8H)-ONE",
+      "formula_weight": 427.283
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "2G2I",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    3.12
+   ]
+  },
+  "struct": {
+   "title": "A Src-like Inactive Conformation in the Abl Tyrosine Kinase Domain"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "ATP-Peptide Conjugate",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "C,D",
+     "pdbx_seq_one_letter_code_can": "AEEEIFGEFEAKK"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": null
+     }
+    ],
+    "rcsb_polymer_entity_align": null
+   },
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Abl Tyrosine Kinase",
+     "pdbx_mutation": "H396P"
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "GHMSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAPAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGK"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 284
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "ADP",
+      "name": "ADENOSINE-5'-DIPHOSPHATE",
+      "formula_weight": 427.201
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "2GQG",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.4
+   ]
+  },
+  "struct": {
+   "title": "X-ray Crystal Structure of Dasatinib (BMS-354825) Bound to Activated ABL Kinase Domain"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Proto-oncogene tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "GAMDPSSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQES"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 272
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "1N1",
+      "name": "N-(2-CHLORO-6-METHYLPHENYL)-2-({6-[4-(2-HYDROXYETHYL)PIPERAZIN-1-YL]-2-METHYLPYRIMIDIN-4-YL}AMINO)-1,3-THIAZOLE-5-CARBOXAMIDE",
+      "formula_weight": 488.006
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "GOL",
+      "name": "GLYCEROL",
+      "formula_weight": 92.094
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "2HZ0",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.1
+   ]
+  },
+  "struct": {
+   "title": "Abl kinase domain in complex with NVP-AEG082"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Proto-oncogene tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "VSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMF"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 228,
+        "length": 270
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "GIN",
+      "name": "2-{[(6-OXO-1,6-DIHYDROPYRIDIN-3-YL)METHYL]AMINO}-N-[4-PROPYL-3-(TRIFLUOROMETHYL)PHENYL]BENZAMIDE",
+      "formula_weight": 429.435
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "2HZ4",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.8
+   ]
+  },
+  "struct": {
+   "title": "Abl kinase domain unligated and in complex with tetrahydrostaurosporine"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Proto-oncogene tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B,C",
+     "pdbx_seq_one_letter_code_can": "VSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQES"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 228,
+        "length": 273
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "4ST",
+      "name": "1,2,3,4-TETRAHYDROGEN-STAUROSPORINE",
+      "formula_weight": 470.563
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "2HZI",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.7
+   ]
+  },
+  "struct": {
+   "title": "Abl kinase domain in complex with PD180970"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Proto-oncogene tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "GAMDPSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQES"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 272
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "JIN",
+      "name": "6-(2,6-DICHLOROPHENYL)-2-[(4-FLUORO-3-METHYLPHENYL)AMINO]-8-METHYLPYRIDO[2,3-D]PYRIMIDIN-7(8H)-ONE",
+      "formula_weight": 429.274
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "2HZN",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.7
+   ]
+  },
+  "struct": {
+   "title": "Abl kinase domain in complex with NVP-AFG210"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Proto-oncogene tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A",
+     "pdbx_seq_one_letter_code_can": "GAMDPSSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVSAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGKRGT"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Mus musculus"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00520",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 287
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "KIN",
+      "name": "1-[4-(PYRIDIN-4-YLOXY)PHENYL]-3-[3-(TRIFLUOROMETHYL)PHENYL]UREA",
+      "formula_weight": 373.329
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "2O88",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.75
+   ]
+  },
+  "struct": {
+   "title": "Crystal structure of the N114A mutant of ABL-SH3 domain complexed with a designed high-affinity peptide ligand: implications for SH3-ligand interactions"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "P41 peptide",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "C,D",
+     "pdbx_seq_one_letter_code_can": "XAPSYSPPPPP"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "synthetic construct"
+     }
+    ],
+    "rcsb_polymer_entity_align": null
+   },
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Proto-oncogene tyrosine-protein kinase ABL1",
+     "pdbx_mutation": "N114A"
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "NLFVALYDFVASGDNTLSITKGEKLRVLGYNHNGEWCEAQTKNGQGWVPSAYITPVNS"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 64,
+        "length": 58
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "SO4",
+      "name": "SULFATE ION",
+      "formula_weight": 96.063
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "2QOH",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.95
+   ]
+  },
+  "struct": {
+   "title": "Crystal Structure of Abl kinase bound with PPY-A"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Proto-oncogene tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "GSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVSAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGKRGT"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Mus musculus"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00520",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 287
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "P3Y",
+      "name": "5-[3-(2-METHOXYPHENYL)-1H-PYRROLO[2,3-B]PYRIDIN-5-YL]-N,N-DIMETHYLPYRIDINE-3-CARBOXAMIDE",
+      "formula_weight": 372.42
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "2V7A",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.5
+   ]
+  },
+  "struct": {
+   "title": "Crystal structure of the T315I Abl mutant in complex with the inhibitor PHA-739358"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "PROTO-ONCOGENE TYROSINE-PROTEIN KINASE ABL1",
+     "pdbx_mutation": "YES"
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "GPSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIIIEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGK"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "HOMO SAPIENS"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 227,
+        "length": 286
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "627",
+      "name": "N-[(3E)-5-[(2R)-2-METHOXY-2-PHENYLACETYL]PYRROLO[3,4-C]PYRAZOL-3(5H)-YLIDENE]-4-(4-METHYLPIPERAZIN-1-YL)BENZAMIDE",
+      "formula_weight": 474.555
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "MG",
+      "name": "MAGNESIUM ION",
+      "formula_weight": 24.305
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "2Z60",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.95
+   ]
+  },
+  "struct": {
+   "title": "Crystal Structure of the T315I Mutant of Abl kinase bound with PPY-A"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Proto-oncogene tyrosine-protein kinase ABL1",
+     "pdbx_mutation": "T315I"
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A",
+     "pdbx_seq_one_letter_code_can": "GSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIIIEFMTYGNLLDYLRECNRQEVSAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGKRGT"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Mus musculus"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00520",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 287
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "P3Y",
+      "name": "5-[3-(2-METHOXYPHENYL)-1H-PYRROLO[2,3-B]PYRIDIN-5-YL]-N,N-DIMETHYLPYRIDINE-3-CARBOXAMIDE",
+      "formula_weight": 372.42
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "3CS9",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.21
+   ]
+  },
+  "struct": {
+   "title": "Human ABL kinase in complex with nilotinib"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Proto-oncogene tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B,C,D",
+     "pdbx_seq_one_letter_code_can": "GAMDPSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQES"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 272
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "NIL",
+      "name": "Nilotinib",
+      "formula_weight": 529.516
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "3DK3",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.02
+   ]
+  },
+  "struct": {
+   "title": "Crystal structure of mutant ABL kinase domain in complex with small molecule fragment"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Proto-oncogene tyrosine-protein kinase ABL1",
+     "pdbx_mutation": "Y393F, L445P"
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "MSLDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVSAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTFTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDPSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGKRGEGHHHHHH"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Mus musculus"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00520",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 233,
+        "length": 282
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "SX7",
+      "name": "2-amino-5-[3-(1-ethyl-1H-pyrazol-5-yl)-1H-pyrrolo[2,3-b]pyridin-5-yl]-N,N-dimethylbenzamide",
+      "formula_weight": 374.439
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "SO4",
+      "name": "SULFATE ION",
+      "formula_weight": 96.063
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "3DK6",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.02
+   ]
+  },
+  "struct": {
+   "title": "Crystal structure of mutant ABL kinase domain in complex with small molecule fragment"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Proto-oncogene tyrosine-protein kinase ABL1",
+     "pdbx_mutation": "Y253F, L445P"
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "MSLDKWEMERTDITMKHKLGGGQFGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVSAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDPSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGKRGEGHHHHHH"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Mus musculus"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00520",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 233,
+        "length": 282
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "SX7",
+      "name": "2-amino-5-[3-(1-ethyl-1H-pyrazol-5-yl)-1H-pyrrolo[2,3-b]pyridin-5-yl]-N,N-dimethylbenzamide",
+      "formula_weight": 374.439
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "3DK7",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.01
+   ]
+  },
+  "struct": {
+   "title": "Crystal structure of mutant ABL kinase domain in complex with small molecule fragment"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Proto-oncogene tyrosine-protein kinase ABL1",
+     "pdbx_mutation": "T315I, L445P"
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "GSLDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIIIEFMTYGNLLDYLRECNRQEVSAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDPSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEG"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Mus musculus"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00520",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 233,
+        "length": 273
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "SX7",
+      "name": "2-amino-5-[3-(1-ethyl-1H-pyrazol-5-yl)-1H-pyrrolo[2,3-b]pyridin-5-yl]-N,N-dimethylbenzamide",
+      "formula_weight": 374.439
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "SO4",
+      "name": "SULFATE ION",
+      "formula_weight": 96.063
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "3EG0",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.3
+   ]
+  },
+  "struct": {
+   "title": "Crystal structure of the N114T mutant of ABL-SH3 domain"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Proto-oncogene tyrosine-protein kinase ABL1",
+     "pdbx_mutation": "N114T"
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A",
+     "pdbx_seq_one_letter_code_can": "MENDPNLFVALYDFVASGDNTLSITKGEKLRVLGYNHNGEWCEAQTKNGQGWVPSTYITPVNS"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 60,
+        "length": 62
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "GOL",
+      "name": "GLYCEROL",
+      "formula_weight": 92.094
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "3EG1",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.85
+   ]
+  },
+  "struct": {
+   "title": "Crystal structure of the N114Q mutant of ABL-SH3 domain complexed with a designed high-affinity peptide ligand: implications for SH3-ligand interactions"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "p41 peptide",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "C,D",
+     "pdbx_seq_one_letter_code_can": "XAPSYSPPPPP"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "synthetic construct"
+     }
+    ],
+    "rcsb_polymer_entity_align": null
+   },
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Proto-oncogene tyrosine-protein kinase ABL1",
+     "pdbx_mutation": "N114Q"
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "MENDPNLFVALYDFVASGDNTLSITKGEKLRVLGYNHNGEWCEAQTKNGQGWVPSQYITPVNS"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 60,
+        "length": 62
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "SO4",
+      "name": "SULFATE ION",
+      "formula_weight": 96.063
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "3EG2",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.8
+   ]
+  },
+  "struct": {
+   "title": "Crystal structure of the N114Q mutant of ABL-SH3 domain"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Proto-oncogene tyrosine-protein kinase ABL1",
+     "pdbx_mutation": "N114Q"
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A",
+     "pdbx_seq_one_letter_code_can": "MENDPNLFVALYDFVASGDNTLSITKGEKLRVLGYNHNGEWCEAQTKNGQGWVPSQYITPVNS"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 60,
+        "length": 62
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "GOL",
+      "name": "GLYCEROL",
+      "formula_weight": 92.094
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "3EG3",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.4
+   ]
+  },
+  "struct": {
+   "title": "Crystal structure of the N114A mutant of ABL-SH3 domain"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Proto-oncogene tyrosine-protein kinase ABL1",
+     "pdbx_mutation": "N114A"
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A",
+     "pdbx_seq_one_letter_code_can": "MENDPNLFVALYDFVASGDNTLSITKGEKLRVLGYNHNGEWCEAQTKNGQGWVPSAYITPVNS"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 60,
+        "length": 62
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "GOL",
+      "name": "GLYCEROL",
+      "formula_weight": 92.094
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "2HYY",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.4
+   ]
+  },
+  "struct": {
+   "title": "Human Abl kinase domain in complex with imatinib (STI571, Glivec)"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Proto-oncogene tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B,C,D",
+     "pdbx_seq_one_letter_code_can": "VSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQES"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 228,
+        "length": 273
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "STI",
+      "name": "4-(4-METHYL-PIPERAZIN-1-YLMETHYL)-N-[4-METHYL-3-(4-PYRIDIN-3-YL-PYRIMIDIN-2-YLAMINO)-PHENYL]-BENZAMIDE",
+      "formula_weight": 493.603
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "2HIW",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.2
+   ]
+  },
+  "struct": {
+   "title": "Crystal Structure of Inactive Conformation Abl Kinase Catalytic Domain Complexed with Type II Inhibitor"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Proto-oncogene tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "GAMDPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGK"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 230,
+        "length": 283
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "7MP",
+      "name": "7-AMINO-1-METHYL-3-(2-METHYL-5-{[3-(TRIFLUOROMETHYL)BENZOYL]AMINO}PHENYL)-2-OXO-2,3-DIHYDROPYRIMIDO[4,5-D]PYRIMIDIN-1-IUM",
+      "formula_weight": 455.413
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "5NP2",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.6
+   ]
+  },
+  "struct": {
+   "title": "Abl1 SH3 pTyr89/134"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "GSHMNLFVALYDFVASGDNTLSITKGEKLRVLGYNHNGEWCEAQTKNGQGWVPSNYITPVN"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 64,
+        "length": 57
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": null
+ },
+ {
+  "rcsb_id": "5MO4",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.17
+   ]
+  },
+  "struct": {
+   "title": "ABL1 kinase (T334I_D382N) in complex with asciminib and nilotinib"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": "T334I D382N"
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A",
+     "pdbx_seq_one_letter_code_can": "GAMDPSEALQRPVASDFEPQGLSEAARWNSKENLLAGPSENDPNLFVALYDFVASGDNTLSITKGEKLRVLGYNHNGEWCEAQTKNGQGWVPSNYITPVNSLEKHSWYHGPVSRNAAEYLLSSGINGSFLVRESESSPGQRSISLRYEGRVYHYRINTASDGKLYVSSESRFNTLAELVHHHSTVADGLITTLHYPAPKRNKPTVYGVSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIIIEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRNLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGKQGV"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 27,
+        "length": 489
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "AY7",
+      "name": "asciminib",
+      "formula_weight": 449.838
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "NIL",
+      "name": "Nilotinib",
+      "formula_weight": 529.516
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "5IH2",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.8
+   ]
+  },
+  "struct": {
+   "title": "Structure, thermodynamics, and the role of conformational dynamics in the interactions between the N-terminal SH3 domain of CrkII and proline-rich motifs in cAbl"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Proline rich Peptide",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "M,N",
+     "pdbx_seq_one_letter_code_can": "XYEKPALPRKRX"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Endothia gyrosa"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00520",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 757,
+        "length": 9
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Adapter molecule crk",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "AEYVRALFDFNGNDEEDLPFKKGDILRIRDKPEEQWWNAEDSEGKRGMIPVPYVEKYR"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Mus musculus"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "Q64010",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 134,
+        "length": 58
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "P4G",
+      "name": "1-ETHOXY-2-(2-ETHOXYETHOXY)ETHANE",
+      "formula_weight": 162.227
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "NA",
+      "name": "SODIUM ION",
+      "formula_weight": 22.99
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "PEG",
+      "name": "DI(HYDROXYETHYL)ETHER",
+      "formula_weight": 106.12
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "5HU9",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.529
+   ]
+  },
+  "struct": {
+   "title": "Crystal structure of ABL1 in complex with CHMFL-074"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A",
+     "pdbx_seq_one_letter_code_can": "GAMGSSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQES"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 272
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "CL",
+      "name": "CHLORIDE ION",
+      "formula_weight": 35.453
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "EDO",
+      "name": "1,2-ETHANEDIOL",
+      "formula_weight": 62.068
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "66K",
+      "name": "4-[(4-methylpiperazin-1-yl)methyl]-N-(4-methyl-3-{[1-(pyridin-3-ylcarbonyl)piperidin-4-yl]oxy}phenyl)-3-(trifluoromethyl)benzamide",
+      "formula_weight": 595.655
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "5DC9",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.56
+   ]
+  },
+  "struct": {
+   "title": "CRYSTAL STRUCTURE OF MONOBODY AS25/ABL1 SH2 DOMAIN COMPLEX, CRYSTAL B"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "AS25 monobody",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "B",
+     "pdbx_seq_one_letter_code_can": "SSVSDVPTKLEVVAATPTSLLISWDAPAVTVDYYVITYGETGGWSGYQEFEVPGSKSTATISGLSPGVDYTITVYAYGYPYVKYNKSPISINYRT"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P02751",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 1536,
+        "length": 95
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A",
+     "pdbx_seq_one_letter_code_can": "GSPSNYITPVNSLEKHSWYHGPVSRNAAEYLLSSGINGSFLVRESESSPGQRSISLRYEGRVYHYRINTASDGKLYVSSESRFNTLAELVHHHSTVADGLITTLHYPAPKRNKPTVYGVSPNY"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 112,
+        "length": 121
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "IMD",
+      "name": "IMIDAZOLE",
+      "formula_weight": 69.085
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "GOL",
+      "name": "GLYCEROL",
+      "formula_weight": 92.094
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "5DC4",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.48
+   ]
+  },
+  "struct": {
+   "title": "CRYSTAL STRUCTURE OF MONOBODY AS25/ABL1 SH2 DOMAIN COMPLEX, CRYSTAL A"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "AS25 monobody",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "B",
+     "pdbx_seq_one_letter_code_can": "SSVSDVPTKLEVVAATPTSLLISWDAPAVTVDYYVITYGETGGWSGYQEFEVPGSKSTATISGLSPGVDYTITVYAYGYPYVKYNKSPISINYRT"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P02751",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 1536,
+        "length": 95
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A",
+     "pdbx_seq_one_letter_code_can": "GSPSNYITPVNSLEKHSWYHGPVSRNAAEYLLSSGINGSFLVRESESSPGQRSISLRYEGRVYHYRINTASDGKLYVSSESRFNTLAELVHHHSTVADGLITTLHYPAPKRNKPTVYGVSPNY"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 112,
+        "length": 121
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "GOL",
+      "name": "GLYCEROL",
+      "formula_weight": 92.094
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "5DC0",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.23
+   ]
+  },
+  "struct": {
+   "title": "CRYSTAL STRUCTURE OF MONOBODY GG3/ABL1 SH2 DOMAIN COMPLEX"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "B",
+     "pdbx_seq_one_letter_code_can": "PSNYITPVNSLEKHSWYHGPVSRNAAEYLLSSGINGSFLVRESESSPGQRSISLRYEGRVYHYRINTASDGKLYVSSESRFNTLAELVHHHSTVADGLITTLHYPAPKRNKPTVYGVSPNY"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 112,
+        "length": 121
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Fibronectin",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A",
+     "pdbx_seq_one_letter_code_can": "VSDVPTKLEVVAATPTSLLISWDAPAVTVVHYVITYGETGGNSPVQEFTVPGSKSTATISGLSPGVDYTITVYALLSSSHWVYESPISINYRT"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P02751",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 1538,
+        "length": 93
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": null
+ },
+ {
+  "rcsb_id": "4ZOG",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.3
+   ]
+  },
+  "struct": {
+   "title": "VX-680/MK-0457 binds to human ABL1 also in inactive DFG conformations."
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "SPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELG"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 283
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "MES",
+      "name": "2-(N-MORPHOLINO)-ETHANESULFONIC ACID",
+      "formula_weight": 195.237
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "MXE",
+      "name": "2-METHOXYETHANOL",
+      "formula_weight": 76.094
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "VX6",
+      "name": "CYCLOPROPANECARBOXYLIC ACID {4-[4-(4-METHYL-PIPERAZIN-1-YL)-6-(5-METHYL-2H-PYRAZOL-3-YLAMINO)-PYRIMIDIN-2-YLSULFANYL]-PHENYL}-AMIDE",
+      "formula_weight": 464.586
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "4YC8",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.9
+   ]
+  },
+  "struct": {
+   "title": "C-Helix-Out Binding of Dasatinib Analog to c-Abl Kinase"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "GHMSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGK"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 284
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "MES",
+      "name": "2-(N-MORPHOLINO)-ETHANESULFONIC ACID",
+      "formula_weight": 195.237
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "EDO",
+      "name": "1,2-ETHANEDIOL",
+      "formula_weight": 62.068
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "4B7",
+      "name": "2-({6-[4-(2-hydroxyethyl)piperazin-1-yl]-2-methylpyrimidin-4-yl}amino)-N-(4-phenoxyphenyl)-1,3-thiazole-5-carboxamide",
+      "formula_weight": 531.629
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "4XEY",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.891
+   ]
+  },
+  "struct": {
+   "title": "Crystal structure of an SH2-kinase domain construct of c-Abl tyrosine kinase"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "B,A",
+     "pdbx_seq_one_letter_code_can": "MASVNSLEKHSWYHGPVSRNAAEYLLSSGINGSFLVRESESSPGQRSISLRYEGRVYHYRINTASDGKLYVSSESRFNTLAELVHHHSTVADGLITTLHYPAPKRNKPTVYGVSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGKQGVLEHHHHHH"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 119,
+        "length": 397
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "1N1",
+      "name": "N-(2-CHLORO-6-METHYLPHENYL)-2-({6-[4-(2-HYDROXYETHYL)PIPERAZIN-1-YL]-2-METHYLPYRIMIDIN-4-YL}AMINO)-1,3-THIAZOLE-5-CARBOXAMIDE",
+      "formula_weight": 488.006
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "4WA9",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.2
+   ]
+  },
+  "struct": {
+   "title": "The crystal structure of human abl1 wild type kinase domain in complex with axitinib"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "B,A",
+     "pdbx_seq_one_letter_code_can": "GSSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGK"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 246,
+        "length": 267
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "AXI",
+      "name": "AXITINIB",
+      "formula_weight": 386.47
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "4TWP",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.4
+   ]
+  },
+  "struct": {
+   "title": "The crystal structure of human abl1 T315I gatekeeper mutant kinase domain in complex with axitinib"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": "T315I"
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "DKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIIIEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSIS"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 233,
+        "length": 271
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "NA",
+      "name": "SODIUM ION",
+      "formula_weight": 22.99
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "NI",
+      "name": "NICKEL (II) ION",
+      "formula_weight": 58.693
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "AXI",
+      "name": "AXITINIB",
+      "formula_weight": 386.47
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "4JJD",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.6
+   ]
+  },
+  "struct": {
+   "title": "Crystal structure of the N114A Abl-SH3 domain mutant at pH4"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": "N114A"
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A",
+     "pdbx_seq_one_letter_code_can": "MENDPNLFVALYDFVASGDNTLSITKGEKLRVLGYNHNGEWCEAQTKNGQGWVPSAYITPVNS"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 60,
+        "length": 62
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "NA",
+      "name": "SODIUM ION",
+      "formula_weight": 22.99
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "PEG",
+      "name": "DI(HYDROXYETHYL)ETHER",
+      "formula_weight": 106.12
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "4JJC",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.6
+   ]
+  },
+  "struct": {
+   "title": "Crystal structure of the Abl-SH3 domain at pH5"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A",
+     "pdbx_seq_one_letter_code_can": "MENDPNLFVALYDFVASGDNTLSITKGEKLRVLGYNHNGEWCEAQTKNGQGWVPSNYITPVNS"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 60,
+        "length": 62
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "PEG",
+      "name": "DI(HYDROXYETHYL)ETHER",
+      "formula_weight": 106.12
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "4JJB",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.65
+   ]
+  },
+  "struct": {
+   "title": "Crystal structure of the Abl-SH3 domain at pH3"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A",
+     "pdbx_seq_one_letter_code_can": "MENDPNLFVALYDFVASGDNTLSITKGEKLRVLGYNHNGEWCEAQTKNGQGWVPSNYITPVNS"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 60,
+        "length": 62
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "SO4",
+      "name": "SULFATE ION",
+      "formula_weight": 96.063
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "PEG",
+      "name": "DI(HYDROXYETHYL)ETHER",
+      "formula_weight": 106.12
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "4J9I",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.2
+   ]
+  },
+  "struct": {
+   "title": "Crystal structure of the ABL-SH3 domain complexed with the designed high-affinity peptide ligand P17"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "P17",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "B,D,F",
+     "pdbx_seq_one_letter_code_can": "XAPTYSPPLPP"
+    },
+    "rcsb_entity_source_organism": null,
+    "rcsb_polymer_entity_align": null
+   },
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,C,E",
+     "pdbx_seq_one_letter_code_can": "MENDPNLFVALYDFVASGDNTLSITKGEKLRVLGYNHNGEWCEAQTKNGQGWVPSNYITPVNS"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 60,
+        "length": 62
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "GOL",
+      "name": "GLYCEROL",
+      "formula_weight": 92.094
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "4J9H",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.7
+   ]
+  },
+  "struct": {
+   "title": "Crystal structure of the ABL-SH3 domain complexed with the designed high-affinity peptide ligand P7 at pH 8"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "P7",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "G,H,I,J,K,L",
+     "pdbx_seq_one_letter_code_can": "XAPTYPPPPPP"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": null
+     }
+    ],
+    "rcsb_polymer_entity_align": null
+   },
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B,C,D,E,F",
+     "pdbx_seq_one_letter_code_can": "MENDPNLFVALYDFVASGDNTLSITKGEKLRVLGYNHNGEWCEAQTKNGQGWVPSNYITPVNS"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 60,
+        "length": 62
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "SO4",
+      "name": "SULFATE ION",
+      "formula_weight": 96.063
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "4J9G",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.8
+   ]
+  },
+  "struct": {
+   "title": "Crystal structure of the ABL-SH3 domain complexed with the designed high-affinity peptide ligand P7 at pH7"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "P7",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "B,D,F",
+     "pdbx_seq_one_letter_code_can": "XAPTYPPPPPP"
+    },
+    "rcsb_entity_source_organism": null,
+    "rcsb_polymer_entity_align": null
+   },
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,C,E",
+     "pdbx_seq_one_letter_code_can": "MENDPNLFVALYDFVASGDNTLSITKGEKLRVLGYNHNGEWCEAQTKNGQGWVPSNYITPVNS"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 60,
+        "length": 62
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "GOL",
+      "name": "GLYCEROL",
+      "formula_weight": 92.094
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "SO4",
+      "name": "SULFATE ION",
+      "formula_weight": 96.063
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "4J9F",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.094
+   ]
+  },
+  "struct": {
+   "title": "Crystal structure of the Abl-SH3 domain complexed with the high affinity peptide P0"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "P0",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "B,D,F",
+     "pdbx_seq_one_letter_code_can": "XAPTYPPPLPP"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": null
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "Q9Y3L3",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 616,
+        "length": 10
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,C,E",
+     "pdbx_seq_one_letter_code_can": "MENDPNLFVALYDFVASGDNTLSITKGEKLRVLGYNHNGEWCEAQTKNGQGWVPSNYITPVNS"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 60,
+        "length": 62
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "GOL",
+      "name": "GLYCEROL",
+      "formula_weight": 92.094
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "SO4",
+      "name": "SULFATE ION",
+      "formula_weight": 96.063
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "4J9E",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.4
+   ]
+  },
+  "struct": {
+   "title": "Crystal structure of the N114A mutant of the Abl-SH3 domain complexed with the high affinity peptide P17"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "P17",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "B,D,F",
+     "pdbx_seq_one_letter_code_can": "XAPTYSPPLPP"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": null
+     }
+    ],
+    "rcsb_polymer_entity_align": null
+   },
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": "N114A"
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,C,E",
+     "pdbx_seq_one_letter_code_can": "MENDPNLFVALYDFVASGDNTLSITKGEKLRVLGYNHNGEWCEAQTKNGQGWVPSAYITPVNS"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 60,
+        "length": 62
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "SO4",
+      "name": "SULFATE ION",
+      "formula_weight": 96.063
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "4J9D",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.5
+   ]
+  },
+  "struct": {
+   "title": "Crystal structure of the N114A mutant of the Abl-SH3 domain complexed with the high affinity peptide P0"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "P0",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "B,D,F",
+     "pdbx_seq_one_letter_code_can": "XAPTYPPPLPP"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": null
+     },
+     {
+      "scientific_name": null
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "Q9Y3L3",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 616,
+        "length": 10
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": "N114A"
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,C,E",
+     "pdbx_seq_one_letter_code_can": "MENDPNLFVALYDFVASGDNTLSITKGEKLRVLGYNHNGEWCEAQTKNGQGWVPSAYITPVNS"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 60,
+        "length": 62
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "SO4",
+      "name": "SULFATE ION",
+      "formula_weight": 96.063
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "4J9C",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.051
+   ]
+  },
+  "struct": {
+   "title": "Crystal structure of the Abl-SH3 domain H59Q-N96T mutant complexed with the designed high-affinity peptide ligand P17"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "P17",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "B",
+     "pdbx_seq_one_letter_code_can": "XAPTYSPPLPP"
+    },
+    "rcsb_entity_source_organism": null,
+    "rcsb_polymer_entity_align": null
+   },
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": "H59Q, N96T"
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A",
+     "pdbx_seq_one_letter_code_can": "MENDPNLFVALYDFVASGDNTLSITKGEKLRVLGYNQTGEWCEAQTKNGQGWVPSNYITPVNS"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 60,
+        "length": 62
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "PEG",
+      "name": "DI(HYDROXYETHYL)ETHER",
+      "formula_weight": 106.12
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "PGE",
+      "name": "TRIETHYLENE GLYCOL",
+      "formula_weight": 150.173
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "4J9B",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.702
+   ]
+  },
+  "struct": {
+   "title": "Crystal structure of the Abl-SH3 domain H59Q-N96T mutant"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": "H59Q, N96T"
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A",
+     "pdbx_seq_one_letter_code_can": "MENDPNLFVALYDFVASGDNTLSITKGEKLRVLGYNQTGEWCEAQTKNGQGWVPSNYITPVNS"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 60,
+        "length": 62
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "PEG",
+      "name": "DI(HYDROXYETHYL)ETHER",
+      "formula_weight": 106.12
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "3UYO",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.83
+   ]
+  },
+  "struct": {
+   "title": "Crystal structure of monobody SH13/ABL1 SH2 domain complex"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Monobody SH13",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "D",
+     "pdbx_seq_one_letter_code_can": "GSVSSVPTKLEVVAATPTSLLISWDAPAVTVDFYVITYGETGGNSPVQEFTVPGSKSTATISGLSPGVDYTITVYAGYSDSWNWPYSPISINYRT"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": null
+   },
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A",
+     "pdbx_seq_one_letter_code_can": "GSPSNYITPVNSLEKHSWYHGPVSRNAAEYLLSSGINGSFLVRESESSPGQRSISLRYEGRVYHYRINTASDGKLYVSSESRFNTLAELVHHHSTVADGLITTLHYPAPKRNKPTVYGVSPNY"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 112,
+        "length": 121
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "SO4",
+      "name": "SULFATE ION",
+      "formula_weight": 96.063
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "3UE4",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.424
+   ]
+  },
+  "struct": {
+   "title": "Structural and spectroscopic analysis of the kinase inhibitor bosutinib binding to the Abl tyrosine kinase domain"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "GHMSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGK"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 284
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "DB8",
+      "name": "4-[(2,4-dichloro-5-methoxyphenyl)amino]-6-methoxy-7-[3-(4-methylpiperazin-1-yl)propoxy]quinoline-3-carbonitrile",
+      "formula_weight": 530.446
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "3T04",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.1
+   ]
+  },
+  "struct": {
+   "title": "Crystal structure of monobody 7c12/abl1 sh2 domain complex"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "MONOBODY 7C12",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "D",
+     "pdbx_seq_one_letter_code_can": "GGSGSSVSSVPTKLEVVDATPTSLKISWDAYYSSWQNVKYYRITYGETGGDSPVQEFTVPGYYSTATISGLKPGVDYTITVYAYDTFFPGYEPNSPISINYRT"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": null
+   },
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A",
+     "pdbx_seq_one_letter_code_can": "GSPSNYITPVNSLEKHSWYHGPVSRNAAEYLLSSGINGSFLVRESESSPGQRSISLRYEGRVYHYRINTASDGKLYVSSESRFNTLAELVHHHSTVADGLITTLHYPAPKRNKPTVYGVSPNY"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 112,
+        "length": 121
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "SO4",
+      "name": "SULFATE ION",
+      "formula_weight": 96.063
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "GOL",
+      "name": "GLYCEROL",
+      "formula_weight": 92.094
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "3QRK",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.3
+   ]
+  },
+  "struct": {
+   "title": "The crystal structure of human abl1 kinase domain in complex with DP-987"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A",
+     "pdbx_seq_one_letter_code_can": "TSMDPSSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQE"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 271
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "9DP",
+      "name": "(3S)-6-(3-tert-butyl-5-{[(2,3-dichlorophenyl)carbamoyl]amino}-1H-pyrazol-1-yl)-1,2,3,4-tetrahydroisoquinoline-3-carboxylic acid",
+      "formula_weight": 502.393
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "3QRJ",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.82
+   ]
+  },
+  "struct": {
+   "title": "The crystal structure of human abl1 kinase domain T315I mutant in complex with DCC-2036"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": "T315I"
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "TSMDPSSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIIIEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQE"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 271
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "919",
+      "name": "4-[4-({[3-tert-butyl-1-(quinolin-6-yl)-1H-pyrazol-5-yl]carbamoyl}amino)-3-fluorophenoxy]-N-methylpyridine-2-carboxamide",
+      "formula_weight": 553.587
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "3QRI",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.1
+   ]
+  },
+  "struct": {
+   "title": "The crystal structure of human abl1 kinase domain in complex with DCC-2036"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "TSMDPSSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQE"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 271
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "919",
+      "name": "4-[4-({[3-tert-butyl-1-(quinolin-6-yl)-1H-pyrazol-5-yl]carbamoyl}amino)-3-fluorophenoxy]-N-methylpyridine-2-carboxamide",
+      "formula_weight": 553.587
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "NA",
+      "name": "SODIUM ION",
+      "formula_weight": 22.99
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "3PYY",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.85
+   ]
+  },
+  "struct": {
+   "title": "Discovery and Characterization of a Cell-Permeable, Small-molecule c-Abl Kinase Activator that Binds to the Myristoyl Binding Site"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "MHHHHHHENLYFQGSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGK"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 284
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "GOL",
+      "name": "GLYCEROL",
+      "formula_weight": 92.094
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "2PE",
+      "name": "NONAETHYLENE GLYCOL",
+      "formula_weight": 414.488
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "3YY",
+      "name": "(5R)-5-[3-(4-fluorophenyl)-1-phenyl-1H-pyrazol-4-yl]imidazolidine-2,4-dione",
+      "formula_weight": 336.32
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "STI",
+      "name": "4-(4-METHYL-PIPERAZIN-1-YLMETHYL)-N-[4-METHYL-3-(4-PYRIDIN-3-YL-PYRIMIDIN-2-YLAMINO)-PHENYL]-BENZAMIDE",
+      "formula_weight": 493.603
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "SO4",
+      "name": "SULFATE ION",
+      "formula_weight": 96.063
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "3OY3",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.95
+   ]
+  },
+  "struct": {
+   "title": "Crystal structure of ABL T315I mutant kinase domain bound with a DFG-out inhibitor AP24589"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": "T315I"
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "GSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIIIEFMTYGNLLDYLRECNRQEVSAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELG"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Mus musculus"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00520",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 283
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "XY3",
+      "name": "5-[(5-{[4-{[4-(2-hydroxyethyl)piperazin-1-yl]methyl}-3-(trifluoromethyl)phenyl]carbamoyl}-2-methylphenyl)ethynyl]-1-methyl-1H-imidazole-2-carboxamide",
+      "formula_weight": 568.59
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "3OXZ",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.2
+   ]
+  },
+  "struct": {
+   "title": "Crystal structure of ABL kinase domain bound with a DFG-out inhibitor AP24534"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A",
+     "pdbx_seq_one_letter_code_can": "GSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVSAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELG"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Mus musculus"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00520",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 283
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "0LI",
+      "name": "3-(imidazo[1,2-b]pyridazin-3-ylethynyl)-4-methyl-N-{4-[(4-methylpiperazin-1-yl)methyl]-3-(trifluoromethyl)phenyl}benzam\nide",
+      "formula_weight": 532.559
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "3MSS",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.95
+   ]
+  },
+  "struct": {
+   "title": "Abl kinase in complex with imatinib and fragment (FRAG2) in the myristate site"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B,C,D",
+     "pdbx_seq_one_letter_code_can": "GAMDPSSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVSAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGKRGT"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Mus musculus"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00520",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 287
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "MS7",
+      "name": "O-benzyl-N-methyl-L-tyrosinamide",
+      "formula_weight": 284.353
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "STI",
+      "name": "4-(4-METHYL-PIPERAZIN-1-YLMETHYL)-N-[4-METHYL-3-(4-PYRIDIN-3-YL-PYRIMIDIN-2-YLAMINO)-PHENYL]-BENZAMIDE",
+      "formula_weight": 493.603
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "3MS9",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.8
+   ]
+  },
+  "struct": {
+   "title": "ABL kinase in complex with imatinib and a fragment (FRAG1) in the myristate pocket"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "GAMDPSSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVSAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGKRGT"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Mus musculus"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00520",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 287
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "CL",
+      "name": "CHLORIDE ION",
+      "formula_weight": 35.453
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "MS9",
+      "name": "methyl 2-amino-4-chlorobenzoate",
+      "formula_weight": 185.608
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "STI",
+      "name": "4-(4-METHYL-PIPERAZIN-1-YLMETHYL)-N-[4-METHYL-3-(4-PYRIDIN-3-YL-PYRIMIDIN-2-YLAMINO)-PHENYL]-BENZAMIDE",
+      "formula_weight": 493.603
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "3KFA",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.22
+   ]
+  },
+  "struct": {
+   "title": "Structural analysis of DFG-in and DFG-out dual Src-Abl inhibitors sharing a common vinyl purine template"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "GSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVSAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGKRGT"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Mus musculus"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00520",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 287
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "B91",
+      "name": "3-{(E)-2-[6-(cyclopropylamino)-9H-purin-9-yl]ethenyl}-4-methyl-N-[3-(4-methyl-1H-imidazol-1-yl)-5-(trifluoromethyl)phenyl]benzamide",
+      "formula_weight": 558.557
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "3KF4",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.9
+   ]
+  },
+  "struct": {
+   "title": "Structural analysis of DFG-in and DFG-out dual Src-Abl inhibitors sharing a common vinyl purine template"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "GSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVSAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGKRGT"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Mus musculus"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00520",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 287
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "B90",
+      "name": "N-[4-(dimethylphosphoryl)phenyl]-9-[(E)-2-(5-methyl-1H-indazol-4-yl)ethenyl]-9H-purin-6-amine",
+      "formula_weight": 443.441
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "3K5V",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.74
+   ]
+  },
+  "struct": {
+   "title": "Structure of Abl kinase in complex with imatinib and GNF-2"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "GAMDPSSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVSAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGKRGT"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Mus musculus"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00520",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 287
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "CL",
+      "name": "CHLORIDE ION",
+      "formula_weight": 35.453
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "STI",
+      "name": "4-(4-METHYL-PIPERAZIN-1-YLMETHYL)-N-[4-METHYL-3-(4-PYRIDIN-3-YL-PYRIMIDIN-2-YLAMINO)-PHENYL]-BENZAMIDE",
+      "formula_weight": 493.603
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "STJ",
+      "name": "3-(6-{[4-(trifluoromethoxy)phenyl]amino}pyrimidin-4-yl)benzamide",
+      "formula_weight": 374.317
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "3K2M",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.75
+   ]
+  },
+  "struct": {
+   "title": "Crystal Structure of Monobody HA4/Abl1 SH2 Domain Complex"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Monobody HA4",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "C,D",
+     "pdbx_seq_one_letter_code_can": "GSSVSSVPTKLEVVAATPTSLLISWDAPMSSSSVYYYRITYGETGGNSPVQEFTVPYSSSTATISGLSPGVDYTITVYAWGEDSAGYMFMYSPISINYRTC"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": null
+   },
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Proto-oncogene tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "SLEKHSWYHGPVSRNAAEYLLSSGINGSFLVRESESSPGQRSISLRYEGRVYHYRINTASDGKLYVSSESRFNTLAELVHHHSTVADGLITTLHYPAPKRNKPTVYGVSPNY"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 121,
+        "length": 112
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "PO4",
+      "name": "PHOSPHATE ION",
+      "formula_weight": 94.971
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "3IK3",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.9
+   ]
+  },
+  "struct": {
+   "title": "AP24534, a Pan-BCR-ABL Inhibitor for Chronic Myeloid Leukemia, Potently Inhibits the T315I Mutant and Overcomes Mutation-Based Resistance"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Proto-oncogene tyrosine-protein kinase ABL1",
+     "pdbx_mutation": "T315I"
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "GSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIIIEFMTYGNLLDYLRECNRQEVSAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGKRGT"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Mus musculus"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00520",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 285
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "0LI",
+      "name": "3-(imidazo[1,2-b]pyridazin-3-ylethynyl)-4-methyl-N-{4-[(4-methylpiperazin-1-yl)methyl]-3-(trifluoromethyl)phenyl}benzam\nide",
+      "formula_weight": 532.559
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "3EGU",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.25
+   ]
+  },
+  "struct": {
+   "title": "Crystal structure of the N114A mutant of ABL-SH3 domain"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Proto-oncogene tyrosine-protein kinase ABL1",
+     "pdbx_mutation": "N114A"
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A",
+     "pdbx_seq_one_letter_code_can": "MENDPNLFVALYDFVASGDNTLSITKGEKLRVLGYNHNGEWCEAQTKNGQGWVPSAYITPVNS"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 60,
+        "length": 62
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "GOL",
+      "name": "GLYCEROL",
+      "formula_weight": 92.094
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "SO4",
+      "name": "SULFATE ION",
+      "formula_weight": 96.063
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "9KS5",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.2
+   ]
+  },
+  "struct": {
+   "title": "The crystal structure of ABL1 in complex with K-CNBA-1"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "SPNYDKWEMERTDITMKHKLGGGQKGEVYEGVWKKYSLTVAVXTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQES"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 272
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": null
+ },
+ {
+  "rcsb_id": "8SSN",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.86
+   ]
+  },
+  "struct": {
+   "title": "Abl kinase in complex with SKI and asciminib"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "GNLFVALYDFVASGDNTLSITKGEKLRVLGYNHNGEWCEAQTKNGQGWVPSNYITPVNSLEKHSWYHGPVSRNAAEYLLSSGINGSFLVRESESSPGQRSISLRYEGRVYHYRINTASDGKLYVSSESRFNTLAELVHHHSTVADGLITTLHYPAPKRNKPTVYGVSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKEL"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 64,
+        "length": 447
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "DMS",
+      "name": "DIMETHYL SULFOXIDE",
+      "formula_weight": 78.133
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "SO4",
+      "name": "SULFATE ION",
+      "formula_weight": 96.063
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "CL",
+      "name": "CHLORIDE ION",
+      "formula_weight": 35.453
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "SKI",
+      "name": "6,7-dimethoxy-N-(4-phenoxyphenyl)quinazolin-4-amine",
+      "formula_weight": 373.405
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "AY7",
+      "name": "asciminib",
+      "formula_weight": 449.838
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "8I7Z",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.25495806781
+   ]
+  },
+  "struct": {
+   "title": "The crystal structure of human abl1 kinase domain in complex with ABL1-B5"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "SPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQES"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 272
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "BAL",
+      "name": "BETA-ALANINE",
+      "formula_weight": 89.093
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "6CI",
+      "name": "5-[3-(2-methoxy-5-oxidanyl-phenyl)-1H-pyrrolo[2,3-b]pyridin-5-yl]-N,N-dimethyl-pyridine-3-carboxamide",
+      "formula_weight": 388.419
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "8I7T",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.80004960558
+   ]
+  },
+  "struct": {
+   "title": "The crystal structure of human abl1 kinase domain in complex with ABL1-B4"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "SPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQES"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 272
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "6I5",
+      "name": "[3-[5-[5-(dimethylcarbamoyl)pyridin-3-yl]-1H-pyrrolo[2,3-b]pyridin-3-yl]-4-methoxy-phenyl] ethanesulfonate",
+      "formula_weight": 480.536
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "8I7S",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.94635467805
+   ]
+  },
+  "struct": {
+   "title": "The crystal structure of human abl1 kinase domain in complex with ABL1-B1"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "SPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQES"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 272
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "6CI",
+      "name": "5-[3-(2-methoxy-5-oxidanyl-phenyl)-1H-pyrrolo[2,3-b]pyridin-5-yl]-N,N-dimethyl-pyridine-3-carboxamide",
+      "formula_weight": 388.419
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "8H7H",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.27789711576
+   ]
+  },
+  "struct": {
+   "title": "The crystal structure of human abl1 kinase domain in complex with abl1-A-EBA"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "GAMGSSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQES"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 272
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "QH9",
+      "name": "5-[3-(6-methoxyisoquinolin-7-yl)-1H-pyrrolo[2,3-b]pyridin-5-yl]-N-methyl-N-prop-2-ynyl-pyridine-3-carboxamide",
+      "formula_weight": 447.488
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "8H7F",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.4501342407
+   ]
+  },
+  "struct": {
+   "title": "The crystal structure of human abl1 kinase domain in complex with abl1-B-EBA"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "GAMGSSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQES"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 272
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "QEW",
+      "name": "1-[6-(6-methoxyisoquinolin-7-yl)-1,3-benzothiazol-2-yl]-3-(2-oxidanylideneethyl)urea",
+      "formula_weight": 392.431
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "7W7Y",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.20003021871
+   ]
+  },
+  "struct": {
+   "title": "The crystal structure of human abl1 kinase domain in complex with ABL2-A5"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "SPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISD"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 276
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "8IW",
+      "name": "5-[3-(5-methanoyl-2-methoxy-4-oxidanyl-phenyl)-1~{H}-pyrrolo[2,3-b]pyridin-5-yl]-~{N},~{N}-dimethyl-pyridine-3-carboxamide",
+      "formula_weight": 416.429
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "7W7X",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.00000937681
+   ]
+  },
+  "struct": {
+   "title": "The crystal structure of human abl1 kinase domain in complex with ABL1-A11"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "SPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQES"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 272
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "8DW",
+      "name": "5-[5-(dimethylcarbamoyl)pyridin-3-yl]-3-(5-fluorosulfonyloxy-2-methoxy-phenyl)-1H-pyrrolo[2,3-b]pyridine",
+      "formula_weight": 470.473
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "7PW2",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.1
+   ]
+  },
+  "struct": {
+   "title": "Crystal structure of the Abl SH3 domain V73E-A74S-S75R-G76T-D77E mutant"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Non-specific protein-tyrosine kinase",
+     "pdbx_mutation": "V73E, A74S, S75R, G76T, D77E"
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A",
+     "pdbx_seq_one_letter_code_can": "GGPNLFVALYDFESRTENTLSITKGEKLRVLGYNHNGEWCEAQTKNGQGWVPSNYITPVN"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 63,
+        "length": 58
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": null
+ },
+ {
+  "rcsb_id": "7PVV",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.82
+   ]
+  },
+  "struct": {
+   "title": "Crystal structure of the Abl SH3 domain G92N-Y93N-N94T-H95E mutant"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Bcr-abl1 e6a2 chimeric protein",
+     "pdbx_mutation": "G92N, Y93N, N94T, H95E"
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A",
+     "pdbx_seq_one_letter_code_can": "GPNLFVALYDFVASGDNTLSITKGEKLRVLNNTENGEWCEAQTKNGQGWVPSNYITPVN"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 63,
+        "length": 58
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "PGE",
+      "name": "TRIETHYLENE GLYCOL",
+      "formula_weight": 150.173
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "PEG",
+      "name": "DI(HYDROXYETHYL)ETHER",
+      "formula_weight": 106.12
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "7PVS",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.05
+   ]
+  },
+  "struct": {
+   "title": "Crystal structure of the Abl SH3 domain V73E-A74S-S75R-G76T-D77E-G92N-Y93N-N94T-H95E mutant in presence of PEG 200"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": "V73E, A74S, S75R, G76T, D77E, G92N, Y93N, N94T, H95E"
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "GPNLFVALYDFESRTENTLSITKGEKLRVLNNTENGEWCEAQTKNGQGWVPSNYITPVN"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 63,
+        "length": 58
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "P6G",
+      "name": "HEXAETHYLENE GLYCOL",
+      "formula_weight": 282.331
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "PEG",
+      "name": "DI(HYDROXYETHYL)ETHER",
+      "formula_weight": 106.12
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "SO4",
+      "name": "SULFATE ION",
+      "formula_weight": 96.063
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "NA",
+      "name": "SODIUM ION",
+      "formula_weight": 22.99
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "PGE",
+      "name": "TRIETHYLENE GLYCOL",
+      "formula_weight": 150.173
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "7PVR",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.65
+   ]
+  },
+  "struct": {
+   "title": "Crystal structure of the Abl SH3 domain V73E-A74S-S75R-G76T-D77E-G92N-Y93N-N94T-H95E mutant in the space group P41"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": "V73E, A74S, S75R, G76T, D77E, G92N, Y93N, N94T, H95E"
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A",
+     "pdbx_seq_one_letter_code_can": "GPNLFVALYDFESRTENTLSITKGEKLRVLNNTENGEWCEAQTKNGQGWVPSNYITPVN"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 63,
+        "length": 58
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": null
+ },
+ {
+  "rcsb_id": "7PVQ",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.55
+   ]
+  },
+  "struct": {
+   "title": "Crystal structure of the Abl SH3 domain V73E-A74S-S75R-G76T-D77E-G92N-Y93N-N94T-H95E mutant in the space group P21221"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": "V73E, A74S, S75R, G76T, D77E, G92N, Y93N, N94T, H95E"
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "GPNLFVALYDFESRTENTLSITKGEKLRVLNNTENGEWCEAQTKNGQGWVPSNYITPVN"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 63,
+        "length": 58
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": null
+ },
+ {
+  "rcsb_id": "7N9G",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.2
+   ]
+  },
+  "struct": {
+   "title": "Crystal structure of the Abl 1b Kinase domain in complex with Dasatinib and Imatinib"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B,C",
+     "pdbx_seq_one_letter_code_can": "SPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQE"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 271
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "PO4",
+      "name": "PHOSPHATE ION",
+      "formula_weight": 94.971
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "1N1",
+      "name": "N-(2-CHLORO-6-METHYLPHENYL)-2-({6-[4-(2-HYDROXYETHYL)PIPERAZIN-1-YL]-2-METHYLPYRIMIDIN-4-YL}AMINO)-1,3-THIAZOLE-5-CARBOXAMIDE",
+      "formula_weight": 488.006
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "STI",
+      "name": "4-(4-METHYL-PIPERAZIN-1-YLMETHYL)-N-[4-METHYL-3-(4-PYRIDIN-3-YL-PYRIMIDIN-2-YLAMINO)-PHENYL]-BENZAMIDE",
+      "formula_weight": 493.603
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "7DT2",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.3
+   ]
+  },
+  "struct": {
+   "title": "Strategic design of catalytic lysine-targeting reversible covalent BCR-ABL Inhibitors"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "MGSSHHHHHHSSGLVPRGSHMENLYFQSSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKEL"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 282
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "HJ9",
+      "name": "[4-[5-[5-(dimethylcarbamoyl)pyridin-3-yl]-1H-pyrrolo[2,3-b]pyridin-3-yl]-2-methanoyl-5-methoxy-phenyl]boronic acid",
+      "formula_weight": 444.248
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "7CC2",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.723
+   ]
+  },
+  "struct": {
+   "title": "Strategic design of catalytic lysine-targeting reversible covalent BCR-ABL Inhibitors"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "MGSSHHHHHHSSGLVPRGSHMENLYFQSSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKEL"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 282
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "FVC",
+      "name": "[4-[5-[5-(dimethylcarbamoyl)pyridin-3-yl]-1H-pyrrolo[2,3-b]pyridin-3-yl]-2-methyl-phenyl]boronic acid",
+      "formula_weight": 400.238
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "6XRG",
+  "exptl": [
+   {
+    "method": "SOLUTION NMR"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": null
+  },
+  "struct": {
+   "title": "Abl 1b isoform inactive2 state"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": "G269E, M309L, T408Y"
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A",
+     "pdbx_seq_one_letter_code_can": "SPNYDKWEMERTDITMKHKLGEGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVLKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMYGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGKQGV"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 287
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": null
+ },
+ {
+  "rcsb_id": "6XR7",
+  "exptl": [
+   {
+    "method": "SOLUTION NMR"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": null
+  },
+  "struct": {
+   "title": "Abl isoform 1b inactive1 state"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A",
+     "pdbx_seq_one_letter_code_can": "SPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGKQGV"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 287
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": null
+ },
+ {
+  "rcsb_id": "6XR6",
+  "exptl": [
+   {
+    "method": "SOLUTION NMR"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": null
+  },
+  "struct": {
+   "title": "Abl 1b isoform active state"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A",
+     "pdbx_seq_one_letter_code_can": "SPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGKQGV"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 287
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": null
+ },
+ {
+  "rcsb_id": "6NPV",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.86
+   ]
+  },
+  "struct": {
+   "title": "C-abl Kinase domain with the activator(cmpd51), N-(1-(3,4-dichlorophenyl)-4-(2-hydroxyethyl)-4,5-dihydro-1H-pyrazol-3-yl)isonicotinamide"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "MHHHHHHENLYFQGSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGK"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 284
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "2PE",
+      "name": "NONAETHYLENE GLYCOL",
+      "formula_weight": 414.488
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "GOL",
+      "name": "GLYCEROL",
+      "formula_weight": 92.094
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "KWP",
+      "name": "~{N}-[(4~{S})-2-(3,4-dichlorophenyl)-4-(2-hydroxyethyl)-3,4-dihydropyrazol-5-yl]pyridine-4-carboxamide",
+      "formula_weight": 379.241
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "STI",
+      "name": "4-(4-METHYL-PIPERAZIN-1-YLMETHYL)-N-[4-METHYL-3-(4-PYRIDIN-3-YL-PYRIMIDIN-2-YLAMINO)-PHENYL]-BENZAMIDE",
+      "formula_weight": 493.603
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "SO4",
+      "name": "SULFATE ION",
+      "formula_weight": 96.063
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "6NPU",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.33
+   ]
+  },
+  "struct": {
+   "title": "C-abl Kinase domain with the activator(cmpd29), N-(1-(3,4-dichlorophenyl)-4,5-dihydro-1H-pyrazol-3-yl)acetamide"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "MHHHHHHENLYFQGSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGK"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 284
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "2PE",
+      "name": "NONAETHYLENE GLYCOL",
+      "formula_weight": 414.488
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "GOL",
+      "name": "GLYCEROL",
+      "formula_weight": 92.094
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "SO4",
+      "name": "SULFATE ION",
+      "formula_weight": 96.063
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "KWV",
+      "name": "~{N}-[2-(3,4-dichlorophenyl)-3,4-dihydropyrazol-5-yl]ethanamide",
+      "formula_weight": 272.131
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "STI",
+      "name": "4-(4-METHYL-PIPERAZIN-1-YLMETHYL)-N-[4-METHYL-3-(4-PYRIDIN-3-YL-PYRIMIDIN-2-YLAMINO)-PHENYL]-BENZAMIDE",
+      "formula_weight": 493.603
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "6NPE",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.15
+   ]
+  },
+  "struct": {
+   "title": "C-abl Kinase domain with the activator(cmpd6), 2-cyano-N-(4-(3,4-dichlorophenyl)thiazol-2-yl)acetamide"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "MHHHHHHENLYFQGSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGK"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 284
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "2PE",
+      "name": "NONAETHYLENE GLYCOL",
+      "formula_weight": 414.488
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "KWD",
+      "name": "2-cyano-~{N}-[4-(3,4-dichlorophenyl)-1,3-thiazol-2-yl]ethanamide",
+      "formula_weight": 312.174
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "STI",
+      "name": "4-(4-METHYL-PIPERAZIN-1-YLMETHYL)-N-[4-METHYL-3-(4-PYRIDIN-3-YL-PYRIMIDIN-2-YLAMINO)-PHENYL]-BENZAMIDE",
+      "formula_weight": 493.603
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "SO4",
+      "name": "SULFATE ION",
+      "formula_weight": 96.063
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "6HD6",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.3
+   ]
+  },
+  "struct": {
+   "title": "ABL1 IN COMPLEX WITH COMPOUND6 AND IMATINIB (STI-571)"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "GAMDPSSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVSAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGKRGT"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Mus musculus"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00520",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 287
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "STI",
+      "name": "4-(4-METHYL-PIPERAZIN-1-YLMETHYL)-N-[4-METHYL-3-(4-PYRIDIN-3-YL-PYRIMIDIN-2-YLAMINO)-PHENYL]-BENZAMIDE",
+      "formula_weight": 493.603
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "FYH",
+      "name": "3-(morpholin-4-ylmethyl)-~{N}-[4-(trifluoromethyloxy)phenyl]benzamide",
+      "formula_weight": 380.361
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "CL",
+      "name": "CHLORIDE ION",
+      "formula_weight": 35.453
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "6HD4",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.03
+   ]
+  },
+  "struct": {
+   "title": "ABL1 IN COMPLEX WITH COMPOUND 7 AND IMATINIB (STI-571)"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "GAMDPSSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVSAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGKRGT"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Mus musculus"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00520",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 229,
+        "length": 287
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "STI",
+      "name": "4-(4-METHYL-PIPERAZIN-1-YLMETHYL)-N-[4-METHYL-3-(4-PYRIDIN-3-YL-PYRIMIDIN-2-YLAMINO)-PHENYL]-BENZAMIDE",
+      "formula_weight": 493.603
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "FYW",
+      "name": "6-[(3~{R})-3-oxidanylpyrrolidin-1-yl]-5-pyrimidin-5-yl-~{N}-[4-(trifluoromethyloxy)phenyl]pyridine-3-carboxamide",
+      "formula_weight": 445.395
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "CL",
+      "name": "CHLORIDE ION",
+      "formula_weight": 35.453
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "GOL",
+      "name": "GLYCEROL",
+      "formula_weight": 92.094
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "6BL8",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    2.5
+   ]
+  },
+  "struct": {
+   "title": "Predicting the Conformational Variability of Abl Tyrosine Kinase Using Molecular Dynamics Simulations and Markov State Models"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "DKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVSAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTFTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDPSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISD"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 233,
+        "length": 272
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "SO4",
+      "name": "SULFATE ION",
+      "formula_weight": 96.063
+     }
+    }
+   },
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "PVB",
+      "name": "PURVALANOL B",
+      "formula_weight": 432.904
+     }
+    }
+   }
+  ]
+ },
+ {
+  "rcsb_id": "6AMW",
+  "exptl": [
+   {
+    "method": "SOLUTION NMR"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": null
+  },
+  "struct": {
+   "title": "Abl1b Regulatory Module 'Activating' conformation"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A",
+     "pdbx_seq_one_letter_code_can": "MGQQPGKVLGDQRRPSLPALHFIKGAGKRESSRHGGPHCNVFVEHEALQRPVASDFEPQGLSEAARWNSKENLLAGPSENDPNLFVALYDFVASGDNTLSITKGEKLRVLGYNHNGEWAEAQTKNGQGWVPSNYITPVNSLEKHSWYHGPVSRNAAEYLLSSGINGSFLVRESESSPGQRSISLRYEGRVYHYRINTASDGKLYVSSESRFNTLAELVHHHSTVADGLITTLHYPAPKRNKPTVYGVSPNYDKWE"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 6,
+        "length": 7
+       },
+       {
+        "ref_beg_seq_id": 13,
+        "length": 224
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": null
+ },
+ {
+  "rcsb_id": "6AMV",
+  "exptl": [
+   {
+    "method": "SOLUTION NMR"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": null
+  },
+  "struct": {
+   "title": "Abl 1b Regulatory Module 'inhibiting state'"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A",
+     "pdbx_seq_one_letter_code_can": "MGQQPGKVLGDQRRPSLPALHFIKGAGKRESSRHGGPHCNVFVEHEALQRPVASDFEPQGLSEAARWNSKENLLAGPSENDPNLFVALYDFVASGDNTLSITKGEKLRVLGYNHNGEWAEAQTKNGQGWVPSNYITPVNSLEKHSWYHGPVSRNAAEYLLSSGINGSFLVRESESSPGQRSISLRYEGRVYHYRINTASDGKLYVSSESRFNTLAELVHHHSTVADGLITTLHYPAPKRNKPTVYGVSPNYDKWE"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 6,
+        "length": 7
+       },
+       {
+        "ref_beg_seq_id": 13,
+        "length": 224
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": null
+ },
+ {
+  "rcsb_id": "5OAZ",
+  "exptl": [
+   {
+    "method": "X-RAY DIFFRACTION"
+   }
+  ],
+  "rcsb_entry_info": {
+   "resolution_combined": [
+    1.03
+   ]
+  },
+  "struct": {
+   "title": "Crystal structure of the Abl-SH3 domain at pH 7.5"
+  },
+  "polymer_entities": [
+   {
+    "rcsb_polymer_entity": {
+     "pdbx_description": "Tyrosine-protein kinase ABL1",
+     "pdbx_mutation": null
+    },
+    "entity_poly": {
+     "pdbx_strand_id": "A,B",
+     "pdbx_seq_one_letter_code_can": "MENDPNLFVALYDFVASGDNTLSITKGEKLRVLGYNHNGEWCEAQTKNGQGWVPSNYITPVNS"
+    },
+    "rcsb_entity_source_organism": [
+     {
+      "scientific_name": "Homo sapiens"
+     }
+    ],
+    "rcsb_polymer_entity_align": [
+     {
+      "reference_database_accession": "P00519",
+      "aligned_regions": [
+       {
+        "ref_beg_seq_id": 60,
+        "length": 62
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "nonpolymer_entities": [
+   {
+    "nonpolymer_comp": {
+     "chem_comp": {
+      "id": "PEG",
+      "name": "DI(HYDROXYETHYL)ETHER",
+      "formula_weight": 106.12
+     }
+    }
+   }
+  ]
+ }
+]
