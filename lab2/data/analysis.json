@@ -1,0 +1,380 @@
+{
+  "uniprot_length": 1130,
+  "uniprot_residue_315": "T",
+  "kinase_domain": [
+    242,
+    493
+  ],
+  "structures": {
+    "WT": {
+      "label": "WT",
+      "pdb_id": "2HYY",
+      "title": "2HYY",
+      "method": "X-RAY DIFFRACTION",
+      "resolution": 2.4,
+      "chains_in_model": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "chain_used": "A",
+      "n_residues_modelled": 263,
+      "range_modelled": [
+        235,
+        498
+      ],
+      "gaps": [
+        [
+          275,
+          275
+        ]
+      ],
+      "numbering_offset_to_uniprot": 0,
+      "numbering_match_fraction": 1.0,
+      "gatekeeper_seqid_in_pdb": 315,
+      "gatekeeper_residue": "THR",
+      "ligand_code": "STI",
+      "ligand_copies_in_chain": 1,
+      "ligand_atoms": 37,
+      "het_inventory": {
+        "STI": 4,
+        "HOH": 200
+      },
+      "binding_site_residues": [
+        [
+          248,
+          "LEU",
+          3.63
+        ],
+        [
+          253,
+          "TYR",
+          3.66
+        ],
+        [
+          256,
+          "VAL",
+          3.59
+        ],
+        [
+          269,
+          "ALA",
+          3.44
+        ],
+        [
+          270,
+          "VAL",
+          3.99
+        ],
+        [
+          271,
+          "LYS",
+          3.58
+        ],
+        [
+          286,
+          "GLU",
+          3.09
+        ],
+        [
+          289,
+          "VAL",
+          3.77
+        ],
+        [
+          290,
+          "MET",
+          3.26
+        ],
+        [
+          293,
+          "ILE",
+          3.8
+        ],
+        [
+          299,
+          "VAL",
+          3.28
+        ],
+        [
+          313,
+          "ILE",
+          3.83
+        ],
+        [
+          315,
+          "THR",
+          3.01
+        ],
+        [
+          316,
+          "GLU",
+          4.37
+        ],
+        [
+          317,
+          "PHE",
+          3.33
+        ],
+        [
+          318,
+          "MET",
+          2.94
+        ],
+        [
+          321,
+          "GLY",
+          4.0
+        ],
+        [
+          359,
+          "PHE",
+          4.25
+        ],
+        [
+          360,
+          "ILE",
+          2.72
+        ],
+        [
+          361,
+          "HIS",
+          2.98
+        ],
+        [
+          362,
+          "ARG",
+          3.93
+        ],
+        [
+          370,
+          "LEU",
+          3.71
+        ],
+        [
+          380,
+          "ALA",
+          3.53
+        ],
+        [
+          381,
+          "ASP",
+          2.97
+        ],
+        [
+          382,
+          "PHE",
+          3.19
+        ]
+      ],
+      "gaps_in_kinase_domain": [
+        [
+          275,
+          275
+        ]
+      ],
+      "gaps_in_binding_site": [],
+      "files": {
+        "original": "WT_original.cif",
+        "complex": "WT_complex.pdb",
+        "protein": "WT_protein.pdb"
+      },
+      "counts": {
+        "complex_residues": 264,
+        "complex_atoms": 2110,
+        "protein_residues": 263,
+        "protein_atoms": 2073
+      }
+    },
+    "T315I": {
+      "label": "T315I",
+      "pdb_id": "3QRJ",
+      "title": "3QRJ",
+      "method": "X-RAY DIFFRACTION",
+      "resolution": 1.82,
+      "chains_in_model": [
+        "A",
+        "B"
+      ],
+      "chain_used": "A",
+      "n_residues_modelled": 258,
+      "range_modelled": [
+        234,
+        496
+      ],
+      "gaps": [
+        [
+          274,
+          278
+        ]
+      ],
+      "numbering_offset_to_uniprot": 0,
+      "numbering_match_fraction": 0.9961,
+      "gatekeeper_seqid_in_pdb": 315,
+      "gatekeeper_residue": "ILE",
+      "ligand_code": "919",
+      "ligand_copies_in_chain": 1,
+      "ligand_atoms": 41,
+      "het_inventory": {
+        "919": 2,
+        "HOH": 243
+      },
+      "binding_site_residues": [
+        [
+          248,
+          "LEU",
+          3.32
+        ],
+        [
+          256,
+          "VAL",
+          3.31
+        ],
+        [
+          269,
+          "ALA",
+          3.17
+        ],
+        [
+          271,
+          "LYS",
+          3.32
+        ],
+        [
+          282,
+          "GLU",
+          3.58
+        ],
+        [
+          286,
+          "GLU",
+          2.94
+        ],
+        [
+          289,
+          "VAL",
+          4.28
+        ],
+        [
+          290,
+          "MET",
+          3.57
+        ],
+        [
+          293,
+          "ILE",
+          3.75
+        ],
+        [
+          298,
+          "LEU",
+          3.93
+        ],
+        [
+          299,
+          "VAL",
+          3.46
+        ],
+        [
+          313,
+          "ILE",
+          4.45
+        ],
+        [
+          315,
+          "ILE",
+          3.28
+        ],
+        [
+          316,
+          "GLU",
+          3.32
+        ],
+        [
+          317,
+          "PHE",
+          3.23
+        ],
+        [
+          318,
+          "MET",
+          2.76
+        ],
+        [
+          319,
+          "THR",
+          3.81
+        ],
+        [
+          321,
+          "GLY",
+          3.93
+        ],
+        [
+          354,
+          "LEU",
+          4.32
+        ],
+        [
+          359,
+          "PHE",
+          3.76
+        ],
+        [
+          361,
+          "HIS",
+          3.8
+        ],
+        [
+          370,
+          "LEU",
+          3.59
+        ],
+        [
+          379,
+          "VAL",
+          4.23
+        ],
+        [
+          380,
+          "ALA",
+          3.45
+        ],
+        [
+          381,
+          "ASP",
+          2.87
+        ],
+        [
+          382,
+          "PHE",
+          3.13
+        ],
+        [
+          383,
+          "GLY",
+          4.36
+        ]
+      ],
+      "gaps_in_kinase_domain": [
+        [
+          274,
+          278
+        ]
+      ],
+      "gaps_in_binding_site": [],
+      "files": {
+        "original": "T315I_original.cif",
+        "complex": "T315I_complex.pdb",
+        "protein": "T315I_protein.pdb"
+      },
+      "counts": {
+        "complex_residues": 259,
+        "complex_atoms": 2116,
+        "protein_residues": 258,
+        "protein_atoms": 2075
+      }
+    }
+  }
+}
